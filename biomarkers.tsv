@@ -15,15 +15,15 @@ Autoimmundiagnostik:dsDNA AK													negativ IU/ml
 Autoimmundiagnostik:u1RNP AK													negativ 						
 Blutzucker:HbA1c										4.8 %									
 Blutzucker:Nüchtern-Blutzucker										90 mg/dl									
-Ejakulatkultur:Kultureller_Erregernachweis:Kultur_aerob																	Wachstum		
-Ejakulatkultur:Kultureller_Erregernachweis:Kultur_anaerob																	kein Wachstum		
-Ejakulatkultur:Kultureller_Erregernachweis:Mycoplasma_hominis/Ureaplasma_spp																	nicht nachgewiesen		
-Ejakulatkultur:Kultureller_Erregernachweis:Nachgewiesene_Erreger:Koagulasenegative_Staphylokokken																	+++		
-Ejakulatkultur:Kultureller_Erregernachweis:Neisseria_gonorrhoeae (kulturell)																	nicht nachgewiesen		
-Ejakulatkultur:Kultureller_Erregernachweis:Sprosspilze																	nicht nachgewiesen		
-Ejakulatkultur:Mikroskopie:Detritus_und_Fibrin																	++		
+Ejakulatkultur:Detritus_und_Fibrin																	++		
+Ejakulatkultur:Kultur_aerob																	Wachstum		
+Ejakulatkultur:Kultur_anaerob																	kein Wachstum		
 Ejakulatkultur:Molekularer_Erregernachweis:Chlamydia_trachomatis																	negativ		
 Ejakulatkultur:Molekularer_Erregernachweis:Neisseria_gonorrhoeae (molekular)																	negativ		
+Ejakulatkultur:Mycoplasma_hominis/Ureaplasma_spp																	nicht nachgewiesen		
+Ejakulatkultur:Nachgewiesene_Erreger:Koagulasenegative_Staphylokokken																	+++		
+Ejakulatkultur:Neisseria_gonorrhoeae (kulturell)																	nicht nachgewiesen		
+Ejakulatkultur:Sprosspilze																	nicht nachgewiesen		
 Gerinnung:Fibrinogen										246 mg/dl	309 mg/dl								
 Gerinnung:Fibrinogen - Clauss											353 mg/dL								
 Gerinnung:PTZ										119 %	113 %								
