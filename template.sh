@@ -25,12 +25,14 @@ tsv_to_html() {
 
 template() {
 	cp "$1" "index.html"
-	grep -o '<!-- INCLUDE [^ ]\+ -->' "$1" | while read -r inc; do
-		file=$(echo "$inc" | sed -E 's/<!-- INCLUDE ([^ ]+) -->/\1/')
-		sed -i "/$inc/{
-        r $file
-        d
-      }" "index.html"
+	grep -o '<INCLUDE [^ ]\+/>' "$1" | while read -r inc; do
+		file=$(echo "$inc" | sed -E 's#<INCLUDE ([^ ]+)/>.*#\1#')
+		# Escape sed special characters in inc for the search
+		pat=$(printf '%s\n' "$inc" | sed 's/[][\.*^$/]/\\&/g')
+		sed -i "/$pat/{
+            r $file
+            d
+        }" "index.html"
 	done
 }
 

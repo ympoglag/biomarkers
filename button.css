@@ -1,0 +1,22 @@
+.download-btn {
+  display: inline-block;
+  padding: 10px 24px;
+  background: linear-gradient(90deg, #50a7f3, #0f75bc);
+  color: #fff;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(80, 167, 243, 0.15);
+  transition:
+    background 0.3s,
+    transform 0.15s;
+  cursor: pointer;
+}
+
+.download-btn:hover,
+.download-btn:focus {
+  background: linear-gradient(90deg, #368ed2, #0a527a);
+  /* transform: translateY(-2px) scale(1.03); */
+  text-decoration: none;
+}
