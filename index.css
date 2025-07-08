@@ -40,7 +40,7 @@ td:first-child {
   /* Restrict width */
   /* max-width: 40vw; */
   /* width: 40vw; */
-  min-width: 300px; /* or another reasonable min width */
+  min-width: 500px; /* or another reasonable min width */
   white-space: normal; /* Allow line breaks */
   overflow-wrap: break-word;
   word-break: break-word;
