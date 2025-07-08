@@ -11,32 +11,27 @@
     </title>
     <style>
     table {
-    border-collapse: collapse;
+    border-collapse: collapse; /* Remove double borders */
     width: 100%;
     }
+
     th,
     td {
-    border: 1px solid #666;
+    border: 1px solid #666; /* Thin solid separator, adjust color as needed */
     padding: 8px 12px;
     background: #fff;
     }
+
     th {
-    background: #f5f5f5;
+    background: #f5f5f5; /* Optional: subtle header background */
     position: sticky;
     top: 0;
-    z-index: 2;
+    z-index: 2; /* Stay above table content */
     }
-    /* Sticky first column */
-    th:first-child,
-    td:first-child {
-    position: sticky;
-    left: 0;
-    z-index: 3; /* On top of horizontal header */
-    background: #eee; /* Match header bg or desired color */
-    }
-    /* For top-left cell, keep it above all others */
-    th:first-child {
-    z-index: 4;
+
+    /* Optional: Remove default table border if present */
+    table {
+    border: none;
     }
     </style>
   </head>
