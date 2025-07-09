@@ -19,9 +19,10 @@ def rewrite_html(html_path):
             for cell in cells:
                 text = cell.get_text()
                 if "(-)" in text or "(+)" in text or "(!)" in text:
-                    cell["style"] = (
-                        "background-color:#FFB3B3;"  # Highlight matching cell
-                    )
+                    cell["style"] = "background-color:#FFB3B3;"
+                    found = True
+                elif "(?)" in text:
+                    cell["style"] = "background-color:#FFB3EE;"
                     found = True
             if found:
                 cells[0][
