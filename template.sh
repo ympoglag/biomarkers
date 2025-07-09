@@ -51,6 +51,7 @@ autoformat_html() {
 		--quiet 1
 		--tidy-mark 0
 		--break-before-br
+        --drop-empty-elements no
 	)
 
 	if tidy "${args[@]}" "$1" >"$tmpfile"; then
