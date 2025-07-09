@@ -217,7 +217,7 @@ Urindiagnostik:Erythrozyten									negativ Ery /µl			negativ Ery /µl
 Urindiagnostik:Glucose		negativ 							negativ mg/dl			negativ mg/dl									
 Urindiagnostik:Harnblutfarbstoff	neg Ery/µl																				
 Urindiagnostik:Harnsediment	v PE v L v a U *																				
-Urindiagnostik:Harnsediment Beurteilung												unauffällig 									
+Urindiagnostik:Harnsediment Beurteilung									unauffällig 			unauffällig 									
 Urindiagnostik:Harnweiße	neg mg/dl																				
 Urindiagnostik:Harnzucker	neg mg/dl																				
 Urindiagnostik:Hämoglobin (Ery)		negativ																			
@@ -228,7 +228,6 @@ Urindiagnostik:Schleimfäden /US		(++++) massenhaft
 Urindiagnostik:Spezifisches Gewicht		1031 kg/l							1.022 g/ml			1.023 g/ml									
 Urindiagnostik:Totalprotein		50 mg/dl							negativ mg/dl			negativ mg/dl									
 Urindiagnostik:Urinfarbe		gelb 							gelb 			goldgelb 									
-Urindiagnostik:Urinsediment:Harnsediment Beurteilung									unauffällig 												
 Urindiagnostik:Urintrübung		klar 							klar 			klar 									
 Urindiagnostik:Urobilinogen	neg mg/dl	normal (0.2-1.0 mg/dl) 							negativ mg/dl			negativ mg/dl									
 Urindiagnostik:pH	5 	6.5 							7.0 			6.0 									
