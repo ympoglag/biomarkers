@@ -13,8 +13,6 @@ Autoimmundiagnostik:Scl-70 AK															negativ
 Autoimmundiagnostik:SmD AK															negativ 						
 Autoimmundiagnostik:dsDNA AK															negativ IU/ml						
 Autoimmundiagnostik:u1RNP AK															negativ 						
-Blutzucker:HbA1c										4.8 %											
-Blutzucker:Nüchtern-Blutzucker										90 mg/dl											
 Ejakulatkultur:Detritus_und_Fibrin																			++		
 Ejakulatkultur:Kultur_aerob																			Wachstum		
 Ejakulatkultur:Kultur_anaerob																			kein Wachstum		
@@ -129,7 +127,7 @@ Klinische Chemie:HDL-Cholesterin		61 mg/dl										69 mg/dl
 Klinische Chemie:Harnstoff				21 mg/dl	15 mg/dl																
 Klinische Chemie:Harnstoff - N													14.7 mg/dL								
 Klinische Chemie:Harnsäure	5.6 mg/dl	5.0 mg/dl		5.2 mg/dl	5.4 mg/dl	5.4 mg/dl			4.9 mg/dl				4.4 mg/dL					3.5 mg/dl			
-Klinische Chemie:HbA1c												5.0 %									
+Klinische Chemie:HbA1c										4.8 %		5.0 %									
 Klinische Chemie:HbA1c (IFCC)												31 mmol/mol									
 Klinische Chemie:Kalium		5.2 mmol/l	4.7 mmol/l		4.6 mmol/l	4.6 mmol/l			4.6 mmol/l	4.5 mmol/l		5.5 mmol/l	3.97 mmol/L								
 Klinische Chemie:Kalzium													2.38 mmol/L								
@@ -139,7 +137,7 @@ Klinische Chemie:LDL-Cholesterin		94 mg/dl										55 mg/dl
 Klinische Chemie:Lipase			41 U/l		48 U/l	50 U/l															
 Klinische Chemie:Magnesium										0.8 mmol/l		0.8 mmol/l	0.92 mmol/L								
 Klinische Chemie:Natrium			142 mmol/l		142 mmol/l	140 mmol/l			139 mmol/l	140 mmol/l		142 mmol/l	137 mmol/L								
-Klinische Chemie:Nüchtern-Blutzucker	97 mg/dl																				
+Klinische Chemie:Nüchtern-Blutzucker	97 mg/dl									90 mg/dl											
 Klinische Chemie:Pankreas-Amylase					33 U/l	32 U/l															
 Klinische Chemie:Phosphat										0.8 mmol/l		1.0 mmol/l									
 Klinische Chemie:Transferrin					305 mg/dl	276 mg/dl						289 mg/dl									
