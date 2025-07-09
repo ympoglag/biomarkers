@@ -209,7 +209,7 @@ Urindiagnostik:Bilirubin	neg  [neg]	negativ 							negativ mg/dl [negativ]			neg
 Urindiagnostik:Erythrozyten									negativ Ery /µl (!) [< 18]			negativ Ery /µl (!) [< 18]									
 Urindiagnostik:Glucose		negativ 							negativ mg/dl (!) [< 25]			negativ mg/dl (!) [< 25]									
 Urindiagnostik:Harnblutfarbstoff	neg Ery/µl [neg]																				
-Urindiagnostik:Harnsediment	v PE v L v a U * (!) [OB]																				
+Urindiagnostik:Harnsediment	v PE v L v a U *																				
 Urindiagnostik:Harnsediment Beurteilung									unauffällig 			unauffällig 									
 Urindiagnostik:Harnweiße	neg mg/dl [neg]																				
 Urindiagnostik:Harnzucker	neg mg/dl [neg]																				
