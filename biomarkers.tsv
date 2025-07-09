@@ -107,8 +107,7 @@ Klinische Chemie:Blutzucker			95 mg/dl		99 mg/dl	89 mg/dl			90 mg/dl			87 mg/dl
 Klinische Chemie:CK			82 U/l		99 U/l	133 U/l						165 U/l									
 Klinische Chemie:CRP	<0.3 mg/dl								<0.06 mg/dl	<0.06 mg/dl		<0.06 mg/dl	0.04 mg/dL					0.13 mg/dl			
 Klinische Chemie:Calcium		2.54 mmol/l								2.4 mmol/l		2.5 mmol/l									
-Klinische Chemie:Chlorid						102 mmol/l						101 mmol/l	99 mmol/L								
-Klinische Chemie:Chloride			105 mmol/l		104 mmol/l					102 mmol/l											
+Klinische Chemie:Chlorid			105 mmol/l		104 mmol/l	102 mmol/l				102 mmol/l		101 mmol/l	99 mmol/L								
 Klinische Chemie:Cholesterin	161 mg/dl	156 mg/dl	139 mg/dl		133 mg/dl	131 mg/dl			138 mg/dl	134 mg/dl		136 mg/dl									
 Klinische Chemie:Cholesterin HDL	68 mg/dl		68 mg/dl		68 mg/dl	67 mg/dl			66 mg/dl	65 mg/dl											
 Klinische Chemie:Cholesterin LDL	85 mg/dl		60 mg/dl		56 mg/dl	55 mg/dl			63 mg/dl	60 mg/dl											
