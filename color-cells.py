@@ -22,7 +22,7 @@ def rewrite_html(html_path):
                     cell["style"] = "background-color:#FFB3B3;"
                     found = True
                 elif "(?)" in text:
-                    cell["style"] = "background-color:#FFB3EE;"
+                    cell["style"] = "background-color:#FFB3FF;"
                     found = True
             if found:
                 cells[0][
