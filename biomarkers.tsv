@@ -83,10 +83,10 @@ Hämatologie:Differentialblutbild:Segmentkernige					3.6 G/l [2.0 - 7.5]	4.0 G/l
 Hämatologie:Differentialblutbild:Segmentkernige (%)			67 % [50.0 - 70.0]		66 % [50.0 - 75.0]	62.3 % [50.0 - 75.0]			67.2 % [50.0 - 75.0]		63.9 % [50.0 - 75.0]	85.6 % (+) [50.0 - 75.0]			74.8 % [50.0 - 75.0]			68.9 % [50.0 - 75.0]			69.2 % [50.0 - 75.0]
 Hämatologie:Differentialblutbild:Stabkernige					0.0 G/l [0.0 - 0.5]	0.1 G/l [≤ 0.5]			0.0 G/l [≤ 0.5]	0.0 G/l [≤ 0.5]	0.0 G/l [≤ 0.5]	0.0 G/l [≤ 0.5]			0.0 G/l [≤ 0.5]			0.0 G/l [≤ 0.5]			0.0 G/l [≤ 0.5]
 Hämatologie:Differentialblutbild:Stabkernige (%)			2 % [0.0 - 5.0]		0 % [0.0 - 5.0]	1.1 % [0.0 - 5.0]			0.5 % [0.0 - 5.0]		0.3 % [0.0 - 5.0]	0.4 % [0.0 - 5.0]			0.5 % [0.0 - 5.0]			0.4 % [0.0 - 5.0]			0.3 % [0.0 - 5.0]
-Immunologie:IgA										234 mg/dl [70 - 400]											
+Immunologie:IgA										234 mg/dl [70 - 400]					247 mg/dl [70 - 400]						
 Immunologie:IgE											877 IU/ml (+) [< 100]				928 IU/ml (+) [<100]						871 IU/ml (+) [< 100]
-Immunologie:IgG										1283 mg/dl [700 - 1600]											
-Immunologie:IgM										95 mg/dl [40 - 230]											
+Immunologie:IgG										1283 mg/dl [700 - 1600]					1294 mg/dl [700 - 1600]						
+Immunologie:IgM										95 mg/dl [40 - 230]					97 mg/dl [40 - 230]						
 Infektionsdiagnostik:HBV c-AK										negativ 											
 Infektionsdiagnostik:HBV s-AG										negativ 											
 Infektionsdiagnostik:HCV-AK										negativ 											
@@ -184,9 +184,6 @@ Proteindiagnostik:Beta-Globulin (2)												4.0 g/l [2.5 - 5.1]						4.2 g/l 
 Proteindiagnostik:Gamma-Globulin												12.1 g/l [6.5 - 14.3]						12.1 g/l [6.5 - 14.3]			
 Proteindiagnostik:Gamma-Globulin rel.												16.4 % [9.9 - 19.5]						16.4 % [9.9 - 19.5]			
 Proteindiagnostik:Homocystein																				5.6 µmol/l [5.5 - 15]	
-Proteindiagnostik:IgA															247 mg/dl [70 - 400]						
-Proteindiagnostik:IgG															1294 mg/dl [700 - 1600]						
-Proteindiagnostik:IgM															97 mg/dl [40 - 230]						
 Proteindiagnostik:Totalprotein										7.1 g/dl [6.0 - 8.0]		7.4 g/dl [6.0 - 8.0]						7.4 g/dl [6.0 - 8.0]			
 Spermiogramm:Ejakulatvolumen																	6.3 ml [> 1.4]				
 Spermiogramm:Leukozyten im Ejakulat																	<1.0 				
