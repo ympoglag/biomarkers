@@ -212,26 +212,20 @@ Spermiogramm:Spermienkonzentration																	91.0 Mio/ml
 Spermiogramm:ph-Wert																	8.2 				
 Stuhlbefund:Stuhl Occ. Blut 3x	3xneg 																				
 Tumormarker:PSA				0.26 ng/ml																0.415 µg/l	
-Urindiagnostik:Bilirubin	neg 								negativ mg/dl			negativ mg/dl									
-Urindiagnostik:Bilirubin /U Teststr.		negativ 																			
+Urindiagnostik:Bilirubin	neg 	negativ 							negativ mg/dl			negativ mg/dl									
 Urindiagnostik:Erythrozyten									negativ Ery /µl			negativ Ery /µl									
-Urindiagnostik:Glucose									negativ mg/dl			negativ mg/dl									
-Urindiagnostik:Glucose /U Teststr.		negativ 																			
+Urindiagnostik:Glucose		negativ 							negativ mg/dl			negativ mg/dl									
 Urindiagnostik:Harnblutfarbstoff	neg Ery/µl																				
 Urindiagnostik:Harnsediment	v PE v L v a U *																				
 Urindiagnostik:Harnsediment Beurteilung												unauffällig 									
 Urindiagnostik:Harnweiße	neg mg/dl																				
 Urindiagnostik:Harnzucker	neg mg/dl																				
-Urindiagnostik:Hämoglobin (Ery) /U (Teststr.)		negativ																			
-Urindiagnostik:Keton	neg mg/dl								negativ mg/dl			50 mg/dl									
-Urindiagnostik:Keton /U Teststr.		negativ 																			
-Urindiagnostik:Leuko /U Teststr.		negativ																			
-Urindiagnostik:Leukozyten	neg L/µl								negativ Leu /µl			negativ Leu /µl									
-Urindiagnostik:Nitrit	neg 								negativ 			negativ 									
-Urindiagnostik:Nitrit /U Teststr.		negativ																			
+Urindiagnostik:Hämoglobin (Ery)		negativ																			
+Urindiagnostik:Keton	neg mg/dl	negativ 							negativ mg/dl			50 mg/dl									
+Urindiagnostik:Leukozyten	neg L/µl	negativ							negativ Leu /µl			negativ Leu /µl									
+Urindiagnostik:Nitrit	neg 	negativ							negativ 			negativ 									
 Urindiagnostik:Schleimfäden /US		(++++) massenhaft 																			
-Urindiagnostik:Spezif. Gew. /U Teststr.		1031 kg/l																			
-Urindiagnostik:Spezifisches Gewicht									1.022 g/ml			1.023 g/ml									
+Urindiagnostik:Spezifisches Gewicht		1031 kg/l							1.022 g/ml			1.023 g/ml									
 Urindiagnostik:Totalprotein		50 mg/dl							negativ mg/dl			negativ mg/dl									
 Urindiagnostik:Urinfarbe		gelb 							gelb 			goldgelb 									
 Urindiagnostik:Urinsediment:Harnsediment Beurteilung									unauffällig 												
