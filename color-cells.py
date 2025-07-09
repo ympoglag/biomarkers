@@ -10,9 +10,13 @@ def rewrite_html(html_path):
         soup = BeautifulSoup(file, "html5lib")
 
     for td in soup.find_all("td"):
-        if "(-)" in td.get_text():
-            td["style"] = "background-color:#FFB3B3;"
-        elif "(+)" in td.get_text():
+        if (
+            False
+            or "(-)" in td.get_text()
+            or "(+)" in td.get_text()
+            or "(!)" in td.get_text()
+            or False
+        ):
             td["style"] = "background-color:#FFB3B3;"
 
     with open(html_path, "w", encoding="utf-8") as file:

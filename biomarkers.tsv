@@ -211,12 +211,12 @@ Urindiagnostik:Glucose		negativ 							negativ mg/dl (!) [< 25]			negativ mg/dl 
 Urindiagnostik:Harnblutfarbstoff	neg Ery/µl [neg]																				
 Urindiagnostik:Harnsediment	v PE v L v a U * (!) [OB]																				
 Urindiagnostik:Harnsediment Beurteilung									unauffällig 			unauffällig 									
-Urindiagnostik:Harnweiße	neg mg/dl (!) [negativ]																				
-Urindiagnostik:Harnzucker	neg mg/dl (!) [negativ]																				
+Urindiagnostik:Harnweiße	neg mg/dl [neg]																				
+Urindiagnostik:Harnzucker	neg mg/dl [neg]																				
 Urindiagnostik:Hämoglobin (Ery)		negativ																			
 Urindiagnostik:Keton	neg mg/dl [neg]	negativ 							negativ mg/dl (!) [< 2]			50 mg/dl (+) [< 2]									
 Urindiagnostik:Leukozyten	neg L/µl [neg]	negativ							negativ Leu /µl (!) [< 10]			negativ Leu /µl (!) [< 10]									
-Urindiagnostik:Nitrit	neg  (!) [negativ]	negativ							negativ  [negativ]			negativ  [negativ]									
+Urindiagnostik:Nitrit	neg  [neg]	negativ							negativ  [negativ]			negativ  [negativ]									
 Urindiagnostik:Schleimfäden /US		(++++) massenhaft 																			
 Urindiagnostik:Spezifisches Gewicht		1031 kg/l (+) [1012 - 1030]							1.022 g/ml [1.012 - 1.030]			1.023 g/ml [1.012 - 1.030]									
 Urindiagnostik:Totalprotein		50 mg/dl (+) [0 - 29]							negativ mg/dl (!) [≤ 30]			negativ mg/dl (!) [≤ 30]									
