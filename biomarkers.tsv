@@ -140,7 +140,7 @@ Klinische Chemie:GOT (ASAT)			64 U/l		20 U/l
 Klinische Chemie:GPT (ALAT)			120 U/l		17 U/l														
 Klinische Chemie:Gamma-GT		13 U/l	11 U/l			9 U/l			9 U/l		7 U/l					8 U/l			
 Klinische Chemie:Glomeruläre Filtrationsrate				103 ml/min															
-Klinische Chemie:Glucose		94 mg/dl																	
+Klinische Chemie:Glucose		94 mg/dl									99 mg/dL								
 Klinische Chemie:HDL-Cholesterin		61 mg/dl									69 mg/dl								
 Klinische Chemie:Harnstoff				21 mg/dl	15 mg/dl														
 Klinische Chemie:Harnstoff - N											14.7 mg/dL								
@@ -223,8 +223,6 @@ Spermiogramm:Rundzellen im Ejakulat															<5.0
 Spermiogramm:Spermien Gesamtzahl															573.0 Mio				
 Spermiogramm:Spermienkonzentration															91.0 Mio/ml				
 Spermiogramm:ph-Wert															8.2 				
-Stoffwechseldiagnostik:Glucose											99 mg/dL								
-Stoffwechseldiagnostik:Triglyceride											50 mg/dL								
 Stuhlbefund:Stuhl Occ. Blut 3x	3xneg 																		
 Tumormarker:PSA				0.26 ng/ml														0.415 µg/l	
 Urindiagnostik:Bilirubin	neg 								negativ mg/dl		negativ mg/dl								
