@@ -29,19 +29,6 @@ Gerinnung:Fibrinogen - Clauss													353 mg/dL
 Gerinnung:PTZ										119 %		113 %									
 Gerinnung:Thromboplastinzeit (nach Owren)													108 %								
 Gerinnung:aPTT										28 Sekunden		29 Sekunden	32.4 s								
-Harndiagnostik:Bilirubin /U Teststr.		negativ 																			
-Harndiagnostik:Glucose /U Teststr.		negativ 																			
-Harndiagnostik:Hämoglobin (Ery) /U (Teststr.)		negativ																			
-Harndiagnostik:Keton /U Teststr.		negativ 																			
-Harndiagnostik:Leuko /U Teststr.		negativ																			
-Harndiagnostik:Nitrit /U Teststr.		negativ																			
-Harndiagnostik:Schleimfäden /US		(++++) massenhaft 																			
-Harndiagnostik:Spezif. Gew. /U Teststr.		1031 kg/l																			
-Harndiagnostik:Totalprotein		50 mg/dl																			
-Harndiagnostik:Urinfarbe		gelb 																			
-Harndiagnostik:Urintrübung		klar 																			
-Harndiagnostik:Urobilinogen		normal (0.2-1.0 mg/dl) 																			
-Harndiagnostik:pH		6.5 																			
 Hormone:ACTH												12 pg/ml									
 Hormone:Androstendion												0.94 ng/ml									
 Hormone:Bioverfügbares Testosteron (BAT)				2.48 ng/ml			3.45 ng/ml	3.13 ng/ml				3.14 ng/ml								3.38 ng/ml	
@@ -226,23 +213,31 @@ Spermiogramm:ph-Wert																	8.2
 Stuhlbefund:Stuhl Occ. Blut 3x	3xneg 																				
 Tumormarker:PSA				0.26 ng/ml																0.415 µg/l	
 Urindiagnostik:Bilirubin	neg 								negativ mg/dl			negativ mg/dl									
+Urindiagnostik:Bilirubin /U Teststr.		negativ 																			
 Urindiagnostik:Erythrozyten									negativ Ery /µl			negativ Ery /µl									
 Urindiagnostik:Glucose									negativ mg/dl			negativ mg/dl									
+Urindiagnostik:Glucose /U Teststr.		negativ 																			
 Urindiagnostik:Harnblutfarbstoff	neg Ery/µl																				
 Urindiagnostik:Harnsediment	v PE v L v a U *																				
 Urindiagnostik:Harnsediment Beurteilung												unauffällig 									
 Urindiagnostik:Harnweiße	neg mg/dl																				
 Urindiagnostik:Harnzucker	neg mg/dl																				
+Urindiagnostik:Hämoglobin (Ery) /U (Teststr.)		negativ																			
 Urindiagnostik:Keton	neg mg/dl								negativ mg/dl			50 mg/dl									
+Urindiagnostik:Keton /U Teststr.		negativ 																			
+Urindiagnostik:Leuko /U Teststr.		negativ																			
 Urindiagnostik:Leukozyten	neg L/µl								negativ Leu /µl			negativ Leu /µl									
 Urindiagnostik:Nitrit	neg 								negativ 			negativ 									
+Urindiagnostik:Nitrit /U Teststr.		negativ																			
+Urindiagnostik:Schleimfäden /US		(++++) massenhaft 																			
+Urindiagnostik:Spezif. Gew. /U Teststr.		1031 kg/l																			
 Urindiagnostik:Spezifisches Gewicht									1.022 g/ml			1.023 g/ml									
-Urindiagnostik:Totalprotein									negativ mg/dl			negativ mg/dl									
-Urindiagnostik:Urinfarbe									gelb 			goldgelb 									
+Urindiagnostik:Totalprotein		50 mg/dl							negativ mg/dl			negativ mg/dl									
+Urindiagnostik:Urinfarbe		gelb 							gelb 			goldgelb 									
 Urindiagnostik:Urinsediment:Harnsediment Beurteilung									unauffällig 												
-Urindiagnostik:Urintrübung									klar 			klar 									
-Urindiagnostik:Urobilinogen	neg mg/dl								negativ mg/dl			negativ mg/dl									
-Urindiagnostik:pH	5 								7.0 			6.0 									
+Urindiagnostik:Urintrübung		klar 							klar 			klar 									
+Urindiagnostik:Urobilinogen	neg mg/dl	normal (0.2-1.0 mg/dl) 							negativ mg/dl			negativ mg/dl									
+Urindiagnostik:pH	5 	6.5 							7.0 			6.0 									
 Virologie:CMV IgM-AK															<5 U/ml						
 Virologie:EBV IgG-AK (EBNA-1)															<3 U/ml						
 Virologie:EBV IgG-AK (VCA)															<10 U/ml						
