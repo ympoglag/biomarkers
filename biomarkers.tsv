@@ -92,8 +92,8 @@ Immunologie:IgM										95 mg/dl
 Infektionsdiagnostik:HBV c-AK										negativ 											
 Infektionsdiagnostik:HBV s-AG										negativ 											
 Infektionsdiagnostik:HCV-AK										negativ 											
-Klinische Chemie:ALAT (GPT)		12 U/l				18 U/l			29 U/l	31 U/l		22 U/l						27 U/l			
-Klinische Chemie:ASAT (GOT)		22 U/l				23 U/l			23 U/l	25 U/l		26 U/l						26 U/l			
+Klinische Chemie:ALAT (GPT)		12 U/l	120 U/l		17 U/l	18 U/l			29 U/l	31 U/l		22 U/l						27 U/l			
+Klinische Chemie:ASAT (GOT)		22 U/l	64 U/l		20 U/l	23 U/l			23 U/l	25 U/l		26 U/l						26 U/l			
 Klinische Chemie:Albumin													49.0 g/L								
 Klinische Chemie:Alkalische Phosphatase		61 U/l	62 U/l		79 U/l	82 U/l						82 U/l									
 Klinische Chemie:Alpha Amylase			34 U/l																		
@@ -123,8 +123,6 @@ Klinische Chemie:Ferritin					80 ng/ml	102 ng/ml						74 ng/ml
 Klinische Chemie:GFR					97.8 ml/min																
 Klinische Chemie:GFR (CKD-EPI)						86 ml/min			86 ml/min			96 ml/min						85 ml/min			
 Klinische Chemie:GFR/1.7m2KO (MDRD)		>60 ml/min																			
-Klinische Chemie:GOT (ASAT)			64 U/l		20 U/l																
-Klinische Chemie:GPT (ALAT)			120 U/l		17 U/l																
 Klinische Chemie:Gamma-GT		13 U/l	11 U/l			9 U/l			9 U/l	10 U/l		7 U/l						8 U/l			
 Klinische Chemie:Glomeruläre Filtrationsrate				103 ml/min																	
 Klinische Chemie:Glucose		94 mg/dl											99 mg/dL								
