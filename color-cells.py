@@ -4,6 +4,7 @@ import shutil
 
 from bs4 import BeautifulSoup
 
+
 def rewrite_html(html_path):
     with open(html_path, "r", encoding="utf-8") as file:
         soup = BeautifulSoup(file, "html5lib")
@@ -18,13 +19,17 @@ def rewrite_html(html_path):
             for cell in cells:
                 text = cell.get_text()
                 if "(-)" in text or "(+)" in text or "(!)" in text:
-                    cell["style"] = "background-color:#FFB3B3;"  # Highlight matching cell
+                    cell["style"] = (
+                        "background-color:#FFB3B3;"  # Highlight matching cell
+                    )
                     found = True
             if found:
-                cells[0]["style"] = "background-color:#FFE6E6;"  # Highlight first column
+                cells[0][
+                    "style"
+                ] = "background-color:#FFE6E6;"  # Highlight first column
 
     with open(html_path, "w", encoding="utf-8") as file:
         file.write(str(soup))
 
-rewrite_html("./index.html")
 
+rewrite_html("./index.html")
