@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 background_color_done = "#DDD"
 background_color_none = "#F2F2F2"
-background_color_none_event = "#000"
+background_color_none_event = "#A6A6A6"
 
 def rewrite_html(html_path):
     with open(html_path, "r", encoding="utf-8") as file:
