@@ -62,7 +62,7 @@ autoformat_html() {
     fi
 }
 
-printf "Doing it ... "
+printf "%s...\n" "$(date +%T)"
 tsv_to_html
 template "./index.template.html"
 # autoformat_html "./index.html"
