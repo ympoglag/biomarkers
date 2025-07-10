@@ -67,4 +67,4 @@ tsv_to_html
 template "./index.template.html"
 # autoformat_html "./index.html"
 ./color-cells.py
-# autoformat_html "./index.html"
+autoformat_html "./index.html"
