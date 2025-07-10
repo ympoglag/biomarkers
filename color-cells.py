@@ -5,8 +5,9 @@ import shutil
 from bs4 import BeautifulSoup
 
 background_color_done = "#DDD"
+background_color_done_event = "#E4F0F0"
 background_color_none = "#F2F2F2"
-background_color_none_event = "#A6A6A6"
+
 
 def rewrite_html(html_path):
     with open(html_path, "r", encoding="utf-8") as file:
@@ -29,7 +30,7 @@ def rewrite_html(html_path):
                 event_columns.add(i)
         return event_columns
 
-    def color_cells_below_last_content(table):
+    def color_cells_below_last_content(table, event_columns):
         rows = table.find_all("tr")
         data_rows = [row for row in rows if row.find_all("td")]
         if not data_rows:
@@ -48,7 +49,10 @@ def rewrite_html(html_path):
                 if col_idx < len(cells):
                     cell = cells[col_idx]
                     existing_style = cell.get("style", "")
-                    done_style = f"background-color:{background_color_done};"
+                    if col_idx in event_columns:
+                        done_style = f"background-color:{background_color_done_event};"
+                    else:
+                        done_style = f"background-color:{background_color_done};"
                     cell["style"] = existing_style + done_style
 
     for table in soup.find_all("table"):
@@ -58,7 +62,7 @@ def rewrite_html(html_path):
             if not cells:
                 continue  # skip header/empty rows
             found = False
-            for idx, cell in enumerate(cells):
+            for cell in cells:
                 text = cell.get_text()
                 if "(-)" in text or "(+)" in text or "(!)" in text:
                     cell["style"] = "background-color:#FFB3B3;"
@@ -66,19 +70,18 @@ def rewrite_html(html_path):
                 elif "(?)" in text:
                     cell["style"] = "background-color:#FFD9FF;"
                     found = True
-                elif text.strip() == "":
-                    # Empty cell, use special color if column is an event column
-                    if idx in event_columns:
-                        cell["style"] = f"background-color:{background_color_none_event};"
-                    else:
-                        cell["style"] = f"background-color:{background_color_none};"
+                elif text.strip() == "":  # Color empty cells
+                    cell["style"] = f"background-color:{background_color_none};"
             if found:
-                cells[0]["style"] = "background-color:#FFE6E6;"
+                cells[0][
+                    "style"
+                ] = "background-color:#FFE6E6;"  # Highlight first column
 
-        color_cells_below_last_content(table)
+        # Now color the cells below the last content in each column, with event color
+        color_cells_below_last_content(table, event_columns)
 
     with open(html_path, "w", encoding="utf-8") as file:
         file.write(str(soup))
 
-rewrite_html("./index.html")
 
+rewrite_html("./index.html")
