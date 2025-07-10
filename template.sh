@@ -1,12 +1,6 @@
 #!/usr/bin/env bash
 set -eo pipefail
 
-# tsv_to_html() {
-#     awk 'BEGIN { print "<table border=1>" }
-#         { print "<tr>"; for(i=1;i<=NF;i++) print "<td>" $i "</td>"; print "</tr>" }
-#     END { print "</table>" }' FS='\t' "./biomarkers.tsv" >"./biomarkers.html"
-# }
-
 tsv_to_html() {
     awk 'BEGIN { print "<table border=1>" }
         NR==1 {
