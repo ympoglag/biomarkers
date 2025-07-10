@@ -1,0 +1,109 @@
+give me a python function that accepts a number-or-string (A) and a string (B) and checks if the first matches the range specified in the 2nd, it outputs different strings depending on the match, or an empty string if the range is fullfilled or "?" if B is not a format that is understood e.g.:
+
+```
+A: 156
+B: <200
+Result: ""
+```
+
+```
+A: 200
+B: <200
+Result: "+"
+```
+
+```
+A: 80
+B: >100
+Result: "-"
+```
+
+```
+A: 7.0
+B: 7.0 - 16
+Result: ""
+```
+
+```
+A: 6
+B: 7.0 - 16
+Result: "-"
+```
+
+```
+A: 16.1
+B: 7.0 - 16
+Result: "+"
+```
+
+```
+A: 0.5
+B: ≤ 0.5
+Result: ""
+```
+
+```
+A: 0.6
+B: ≤ 0.5
+Result: "+"
+```
+
+```
+A: 10
+B: <= 32
+Result: ""
+```
+
+```
+A: 40
+B: >= 32
+Result: ""
+```
+
+```
+A: 80
+B: ≥ 70
+Result: ""
+```
+
+```
+A: 50
+B: ≥ 70
+Result: "-"
+```
+
+```
+A: <8.0
+B: 7.0 - 16
+Result: ""
+```
+
+```
+A: <7.0
+B: 7.0 - 16
+Result: "-"
+```
+
+```
+A: >16
+B: 7.0 - 16
+Result: "+"
+```
+
+```
+A: <8.0
+B: 7.0 - 16
+Result: ""
+```
+
+```
+A: <8.0
+B: 7.0 - 16
+Result: ""
+```
+
+```
+A: <8.0
+B: 7.0 - 16
+Result: ""
+```
