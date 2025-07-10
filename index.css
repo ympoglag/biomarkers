@@ -30,7 +30,7 @@ td:first-child {
   position: sticky;
   left: 0;
   z-index: 3; /* On top of horizontal header */
-  background: #eee; /* Match header bg or desired color */
+  background: #ee0; /* Match header bg or desired color */
 }
 /* For top-left cell, keep it above all others */
 th:first-child {
