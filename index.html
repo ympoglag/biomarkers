@@ -148,11 +148,11 @@
     var table = document.getElementsByTagName("table")[0];
     if (!table) return;
 
-    // Get all the rows
+    // Get tbody and rows
     var tbody = table.getElementsByTagName("tbody")[0];
     var rows = tbody.getElementsByTagName("tr");
 
-    // Cache header row
+    // Header row/TSV
     var headerRow = table.getElementsByTagName("tr")[0];
     var headerCells = headerRow.getElementsByTagName("th");
     var headerTSV = [];
@@ -160,43 +160,63 @@
     headerTSV.push(getCellText(headerCells[i]));
     }
 
-    // Set up triple click on first column <td>
-    for (var r = 1; r < rows.length; ++r) {
+    // Triple-click handler for rows and header
+    function setupTripleClick(cell, getTSV, getName, isHeader) {
+    cell.onclick = function (e) {
+      e = e || window.event;
+      if (e.detail !== 3) return;
+      if (isTextNodeOrChildOfText(cell, e)) return;
+
+      e.preventDefault();
+      if (window.getSelection) window.getSelection().removeAllRanges();
+      else if (document.selection) document.selection.empty();
+
+      var tsv = getTSV();
+      copyTextToClipboard(tsv);
+
+      var rowName = getName();
+      showCopiedPopup(cell, isHeader ? "Header" : rowName);
+    };
+    cell.style.cursor = "default";
+    }
+
+    // Header row (allow triple-click on first TH)
+    var firstHeaderCell = headerRow.getElementsByTagName("th")[0];
+    if (firstHeaderCell) {
+    setupTripleClick(
+      firstHeaderCell,
+      function () {
+        return headerTSV.join("\t");
+      },
+      function () {
+        return getCellText(firstHeaderCell);
+      },
+      true
+    );
+    }
+
+    // Data rows
+    for (var r = 0; r < rows.length; ++r) {
     (function (r) {
       var cell = rows[r].getElementsByTagName("td")[0];
       if (!cell) return;
 
-      cell.onclick = function (e) {
-        e = e || window.event;
-        // Only trigger on triple click and only on cell background
-        if (e.detail !== 3) return;
-        if (isTextNodeOrChildOfText(cell, e)) return;
-
-        e.preventDefault(); // Prevent text selection
-        if (window.getSelection) {
-          window.getSelection().removeAllRanges();
-        } else if (document.selection) {
-          // For IE
-          document.selection.empty();
-        }
-
-        // Compose TSV: header + this row
-        var rowTSV = [];
-        var cells = rows[r].getElementsByTagName("td");
-        for (var j = 0; j < cells.length; ++j) {
-          rowTSV.push(getCellText(cells[j]));
-        }
-        var tsv = headerTSV.join("\t") + "\n" + rowTSV.join("\t");
-        copyTextToClipboard(tsv);
-
-        // Extract row name from first column (already in cell)
-        var rowName = getCellText(cell);
-        showCopiedPopup(cell, rowName);
-      };
-
-      // Use the default cursor (not hand/pointer)
-      cell.style.cursor = "default";
-      // cell.title = "Triple-click background to copy this row as TSV";
+      setupTripleClick(
+        cell,
+        function () {
+          // Only row, no header
+          var cells = rows[r].getElementsByTagName("td");
+          var rowTSV = [];
+          for (var j = 0; j < cells.length; ++j) {
+            rowTSV.push(getCellText(cells[j]));
+          }
+          return rowTSV.join("\t");
+        },
+        function () {
+          return getCellText(cell);
+        },
+        false
+      );
     })(r);
     }
     };
@@ -209,7 +229,7 @@
       <tbody>
         <tr>
           <th>
-            [BMT-v0] Ympoglag (2025-07-15T18:35Z)
+            [BMT-v0] Ympoglag (2025-07-15T21:11Z)
           </th>
           <th>
             17.05.2016
@@ -429,7 +449,7 @@
           <td style="background-color:#F2F2F2;"></td>
           <td style="background-color:#F2F2F2;"></td>
           <td>
-            Normaler Tag.
+            Normale Symptomlast (weder großartig noch besonders Schlecht für meine Verhältnisse).
           </td>
         </tr>
         <tr>
