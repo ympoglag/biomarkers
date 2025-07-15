@@ -111,7 +111,7 @@ window.onload = function () {
 
       // Use the default cursor (not hand/pointer)
       cell.style.cursor = "default";
-      cell.title = "Triple-click background to copy this row as TSV";
+      // cell.title = "Triple-click background to copy this row as TSV";
     })(r);
   }
 };
