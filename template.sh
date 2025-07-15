@@ -19,10 +19,12 @@ tsv_to_html() {
 
 template() {
     cp "$1" "index.html"
-    grep -o '<INCLUDE [^ ]\+/>' "$1" | while read -r inc; do
-        file=$(echo "$inc" | sed -E 's#<INCLUDE ([^ ]+)/>.*#\1#')
+    # Match both <template-include src="..." /> and <template-include src="..."></template-include>
+    grep -o '<template-include src="[^"]\+"\s*/>\|<template-include src="[^"]\+"></template-include>' "$1" | while read -r inc; do
+        # Extract filename from src="..."
+        file=$(echo "$inc" | sed -E 's#<template-include src="([^"]+)".*#\1#')
 
-        # Escape sed special characters in inc for the search
+        # Escape for sed pattern
         pat=$(printf '%s\n' "$inc" | sed 's/[][\.*^$/]/\\&/g')
         sed -i "/$pat/{
             r $file

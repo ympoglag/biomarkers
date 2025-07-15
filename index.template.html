@@ -10,14 +10,16 @@
       Biomarkers
     </title>
     <style>
-        <INCLUDE index.css/>
-        <INCLUDE button.css/>
+        <template-include src="index.css" />
+        <template-include src="button.css" />
     </style>
+    <script type="text/javascript">
+        <template-include src="./double-click-copy-row.js" />
+    </script>
   </head>
   <body>
     <!-- <a href="./biomarkers.tsv" class="download-btn">Download as .tsv</a> -->
     <!-- <p/> -->
-
-    <INCLUDE biomarkers.html/>
+    <template-include src="biomarkers.html"></template-include>
   </body>
 </html>
