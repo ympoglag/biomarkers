@@ -1,4 +1,4 @@
+- [X] always make sure that <ctrl-a> & <ctrl-c> pastes the whole table as a '.tsv' that can be used in any Spreadsheet program
 - [X] put 'Meta' at first rows
-- [ ] grey out cells below the last filled in Cell
+- [X] grey out cells below the last filled in Cell
 - [ ] add 1px solid black border that stays with the sticky cells when scrolling
-- [ ] always make sure that <ctrl-a> & <ctrl-c> pastes the whole table as a '.tsv' that can be used in any Spreadsheet program
