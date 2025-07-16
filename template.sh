@@ -64,3 +64,6 @@ tsv_to_html
 template "./index.template.html"
 ./color-cells.py
 autoformat_html "./index.html"
+
+# md2html ./trials/index.md
+convert-md-to-html ./trials/index.md
