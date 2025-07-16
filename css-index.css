@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: system-ui, sans-serif;
+  background: #f9f9f9;
+  color: #181818;
+  transition:
+    background 0.3s,
+    color 0.3s;
+}
+body.dark {
+  background: #181c20;
+  color: #f6f6f6;
+}

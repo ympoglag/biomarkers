@@ -1,0 +1,69 @@
+.topbar {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+  height: 54px;
+  background: #e9f4fd;
+  border-bottom: 1px solid #b7d8ee;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.2rem;
+  box-sizing: border-box;
+  /* Exclude from selection/copy: */
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  pointer-events: none; /* disables pointer by default, but see below */
+}
+.topbar.dark {
+  background: #171c24;
+  border-bottom: 1px solid #333e4d;
+}
+.topbar a,
+.topbar button {
+  pointer-events: auto; /* clickable! */
+}
+.topbar-left-link {
+  color: #1577c3;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 2rem;
+  letter-spacing: 0.01em;
+  transition: color 0.2s;
+  background: none;
+  border: none;
+  user-select: none;
+}
+.topbar-left-link:active,
+.topbar-left-link:visited {
+  color: #0a4c7d;
+}
+.topbar .topbar-btn {
+  margin-left: auto;
+  padding: 0.65em 1.6em;
+  font-size: 1rem;
+  background: linear-gradient(90deg, #50a7f3, #0f75bc);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(80, 167, 243, 0.07);
+  cursor: pointer;
+  transition:
+    background 0.2s,
+    transform 0.13s;
+  font-weight: 500;
+  pointer-events: auto;
+  user-select: none;
+}
+.topbar .topbar-btn:hover,
+.topbar .topbar-btn:focus {
+  background: linear-gradient(90deg, #368ed2, #0a527a);
+  outline: none;
+}
+.topbar .topbar-btn:active {
+  transform: scale(0.98);
+}
