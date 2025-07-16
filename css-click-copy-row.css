@@ -1,0 +1,18 @@
+/* Popup styles (copied) */
+.copied-popup {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: #222;
+  color: #fff;
+  padding: 12px 32px;
+  font-size: 1.3em;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.15);
+  z-index: 9999;
+  opacity: 0.95;
+  text-align: center;
+  pointer-events: none;
+  user-select: none;
+}

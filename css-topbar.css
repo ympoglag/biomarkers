@@ -17,6 +17,7 @@
   -webkit-user-drag: none;
   pointer-events: none;
   font-size: 0.98rem;
+  font-family: system-ui, sans-serif;
 }
 .topbar.dark {
   background: #171c24;

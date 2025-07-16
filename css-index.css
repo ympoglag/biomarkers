@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
-  font-family: system-ui, sans-serif;
+  /* font-family: system-ui, sans-serif; */
   background: #f9f9f9;
   color: #181818;
   transition:

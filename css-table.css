@@ -7,10 +7,6 @@ td {
   border: 1px solid #666;
   padding: 8px 12px;
   background: #fff;
-  /* transition: */
-  /*   background 0.3s, */
-  /*   color 0.3s, */
-  /*   border-color 0.3s; */
 }
 /* DARK mode for table cells! */
 body.dark th,
@@ -36,7 +32,7 @@ td:first-child {
   left: 0;
   background: #e0e0e0;
   z-index: 2;
-  min-width: 320px;
+  min-width: 500px;
   white-space: normal;
   overflow-wrap: break-word;
   word-break: break-word;
@@ -54,24 +50,6 @@ th:first-child {
 }
 body.dark th:first-child {
   background: #212834;
-}
-/* Popup styles (copied) */
-.copied-popup {
-  position: fixed;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  background: #222;
-  color: #fff;
-  padding: 12px 32px;
-  font-size: 1.3em;
-  border-radius: 10px;
-  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.15);
-  z-index: 9999;
-  opacity: 0.95;
-  text-align: center;
-  pointer-events: none;
-  user-select: none;
 }
 /* Responsive for mobile */
 @media (max-width: 600px) {

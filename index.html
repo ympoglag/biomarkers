@@ -15,7 +15,7 @@
     margin: 0;
     padding: 0;
     height: 100%;
-    font-family: system-ui, sans-serif;
+    /* font-family: system-ui, sans-serif; */
     background: #f9f9f9;
     color: #181818;
     transition:
@@ -35,10 +35,6 @@
     border: 1px solid #666;
     padding: 8px 12px;
     background: #fff;
-    /* transition: */
-    /*   background 0.3s, */
-    /*   color 0.3s, */
-    /*   border-color 0.3s; */
     }
     /* DARK mode for table cells! */
     body.dark th,
@@ -64,7 +60,7 @@
     left: 0;
     background: #e0e0e0;
     z-index: 2;
-    min-width: 320px;
+    min-width: 500px;
     white-space: normal;
     overflow-wrap: break-word;
     word-break: break-word;
@@ -82,24 +78,6 @@
     }
     body.dark th:first-child {
     background: #212834;
-    }
-    /* Popup styles (copied) */
-    .copied-popup {
-    position: fixed;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    background: #222;
-    color: #fff;
-    padding: 12px 32px;
-    font-size: 1.3em;
-    border-radius: 10px;
-    box-shadow: 0 2px 16px rgba(0, 0, 0, 0.15);
-    z-index: 9999;
-    opacity: 0.95;
-    text-align: center;
-    pointer-events: none;
-    user-select: none;
     }
     /* Responsive for mobile */
     @media (max-width: 600px) {
@@ -158,6 +136,7 @@
     -webkit-user-drag: none;
     pointer-events: none;
     font-size: 0.98rem;
+    font-family: system-ui, sans-serif;
     }
     .topbar.dark {
     background: #171c24;
@@ -379,7 +358,6 @@
   </head>
   <body>
     <!-- <a href="./biomarkers.tsv" class="download-btn">Download as .tsv</a> -->
-    <!-- <p/> -->
     <!-- === TOP BAR === -->
     <nav class="topbar">
       <a class="topbar-left-link" href="//biomarker101.com" tabindex="1">biomarker101.com</a> <button aria-pressed="false" class=

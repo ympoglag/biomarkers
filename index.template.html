@@ -14,10 +14,11 @@
         <template-include src="css-table.css" />
         <template-include src="css-button.css" />
         <template-include src="css-topbar.css" />
+        <template-include src="css-click-copy-row" />
     </style>
     <script type="text/javascript">
-        <template-include src="./js-dark-mode-switch.js" />
-        <template-include src="./js-click-copy-row.js" />
+        <template-include src="js-dark-mode-switch.js" />
+        <template-include src="js-click-copy-row.js" />
 
         window.onload = function () {
             SetupDarkModeSwitch();
@@ -27,7 +28,6 @@
   </head>
   <body>
     <!-- <a href="./biomarkers.tsv" class="download-btn">Download as .tsv</a> -->
-    <!-- <p/> -->
     <!-- === TOP BAR === -->
     <nav class="topbar">
       <a class="topbar-left-link" href="//biomarker101.com" tabindex="1">biomarker101.com</a> <button aria-pressed="false" class=
