@@ -2,30 +2,33 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-
-@media (max-width: 600px) {
-  table,
-  th,
-  td {
-    font-size: 44px;
-  }
-}
-
 th,
 td {
   border: 1px solid #666;
   padding: 8px 12px;
   background: #fff;
+  /* transition: */
+  /*   background 0.3s, */
+  /*   color 0.3s, */
+  /*   border-color 0.3s; */
 }
-
-/* Sticky header */
+/* DARK mode for table cells! */
+body.dark th,
+body.dark td {
+  background: #232933;
+  color: #f6f6f6;
+  border-color: #444c56;
+}
+/* Sticky header - sits BELOW topbar, don't overlap! */
 th {
   position: sticky;
-  top: 0;
-  z-index: 3; /* Adjusted below */
+  top: 27px; /* Must match .topbar height! */
+  z-index: 3;
   background: #e0e0e0;
 }
-
+body.dark th {
+  background: #2d3641;
+}
 /* Sticky first column */
 th:first-child,
 td:first-child {
@@ -33,17 +36,56 @@ td:first-child {
   left: 0;
   background: #e0e0e0;
   z-index: 2;
-  min-width: 500px; /* or whatever fits */
+  min-width: 320px;
   white-space: normal;
   overflow-wrap: break-word;
   word-break: break-word;
 }
-
+body.dark th:first-child,
+body.dark td:first-child {
+  background: #20242b;
+}
 /* Make top-left cell sticky on both axes and above all */
 th:first-child {
-  /* Sticky both top & left */
   left: 0;
-  top: 0;
-  z-index: 5; /* Make sure it's above header/column */
+  top: 27px; /* Must match .topbar height! */
+  z-index: 5;
   background: #e0e0e0;
+}
+body.dark th:first-child {
+  background: #212834;
+}
+/* Popup styles (copied) */
+.copied-popup {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: #222;
+  color: #fff;
+  padding: 12px 32px;
+  font-size: 1.3em;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.15);
+  z-index: 9999;
+  opacity: 0.95;
+  text-align: center;
+  pointer-events: none;
+  user-select: none;
+}
+/* Responsive for mobile */
+@media (max-width: 600px) {
+  table,
+  th,
+  td {
+    font-size: 44px;
+  }
+  .topbar {
+    height: 36px;
+    font-size: 1.15em;
+  }
+  th,
+  th:first-child {
+    top: 36px;
+  }
 }
