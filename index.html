@@ -195,7 +195,7 @@
     }
     </style>
     <script type="text/javascript">
-    const SetupDarkModeSwitch = function () {
+    function SetupDarkModeSwitch() {
     // Restore dark mode if saved
     if (localStorage.getItem("bmt_dark") === "1") {
     document.body.classList.add("dark");
@@ -211,7 +211,7 @@
       localStorage.removeItem("bmt_dark");
     }
     };
-    };
+    }
     // Utility: get textContent, fallbacks for old IE
     function getCellText(cell) {
     if (typeof cell.textContent !== "undefined")
@@ -273,7 +273,7 @@
     return false;
     }
 
-    const SetupClickCopyRow = function () {
+    function SetupClickCopyRow() {
     var table = document.getElementsByTagName("table")[0];
     if (!table) return;
 

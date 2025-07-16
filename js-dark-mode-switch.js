@@ -1,4 +1,4 @@
-const SetupDarkModeSwitch = function () {
+function SetupDarkModeSwitch() {
   // Restore dark mode if saved
   if (localStorage.getItem("bmt_dark") === "1") {
     document.body.classList.add("dark");
@@ -14,4 +14,4 @@ const SetupDarkModeSwitch = function () {
       localStorage.removeItem("bmt_dark");
     }
   };
-};
+}

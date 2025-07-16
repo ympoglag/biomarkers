@@ -59,7 +59,7 @@ function isTextNodeOrChildOfText(node, event) {
   return false;
 }
 
-const SetupClickCopyRow = function () {
+function SetupClickCopyRow() {
   var table = document.getElementsByTagName("table")[0];
   if (!table) return;
 
