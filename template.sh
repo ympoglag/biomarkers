@@ -59,11 +59,16 @@ autoformat_html() {
     fi
 }
 
+convert_md_to_html() {
+    convert-md-to-html "${1}/index.md"
+    sed -i "s|CURRENT_DATE|$(date '+%Y.%m.%d %T %Z')|g" "${1}/index.html"
+}
+
 printf "Templating %s...\n" "$(date +%T)"
 tsv_to_html
 template "./index.template.html"
 ./color-cells.py
 autoformat_html "./index.html"
 
-# md2html ./trials/index.md
-convert-md-to-html ./trials/index.md
+convert_md_to_html "./medical-findings/"
+convert_md_to_html "./trials/"
