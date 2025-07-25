@@ -169,3 +169,13 @@ kommt ad KO, Leberwerte oB
 *Therapie*: Taladafil Ari Ftbl 5mg 90ST Rp 5x
 
 **Diagnose**: VA IPP, Asthenoteratozzospermie, Varikozele links
+
+### 24.07.2025 - Urologe
+*Ultraschall Oberbauch*:  
+Die Leber ist normgroß und zeigt eine reguläre Echogenität. Keine fokale
+Leberparenchymläsion abgrenzbar. Die Gallenblase ist zartwandig und frei von
+Konkrementen. Die intra- und extrahepatischen Gallenwege sind normweit. Das
+partiell einschallbare Pankreas ist von regulärer Parenchymtextur, keine
+Gangdilatation. Die Milz ist normgroß und homogen konfiguriert.
+
+**Unauffällig**
