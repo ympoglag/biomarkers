@@ -1,5 +1,5 @@
 ---
-title: "Diagnosis of Exclusion"
+title: "Differential diagnoses"
 ---
 **Last-Updated**: CURRENT_DATE
 
