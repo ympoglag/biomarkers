@@ -14,3 +14,6 @@ diagnosis via Exclusion.
 
 ### Cerebrospinal Fluid Leak
 https://en.wikipedia.org/wiki/Cerebrospinal_fluid_leak
+
+##### Ruled out via
+Beta-2 Transferrin Test
