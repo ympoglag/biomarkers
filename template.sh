@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -eo pipefail
 
+script_dir="$( dirname "$(realpath "$0")" )" 
+
 tsv_to_html() {
     awk 'BEGIN { print "<table border=1>" }
         NR==1 {
@@ -60,6 +62,8 @@ autoformat_html() {
 }
 
 convert_md_to_html() {
+    [[ -e "${1}/index.md" ]] || { echo "Missing index.md" >&2; exit 1; }
+    cp "${script_dir}/css-markdown.css" "${1}/markdown.css"
     convert-md-to-html "${1}/index.md"
     sed -i "s|CURRENT_DATE|$(date '+%Y.%m.%d %T %Z')|g" "${1}/index.html"
 }
@@ -72,3 +76,4 @@ autoformat_html "./index.html"
 
 convert_md_to_html "./medical-findings/"
 convert_md_to_html "./trials/"
+convert_md_to_html "./trials/schellong-test-analysis/"
