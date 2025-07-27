@@ -130,6 +130,17 @@ Should try again over longer periods and track symptoms.
 
 **Suspected**: MCAS
 
+### Schellong-Test (27.07.2025)
+
+| Time                                       | Blood Pressure + Pulse   |
+| -----------------------------------------  | ------------------------ |
+| **10 minutes** (after lying down)          | 105 SYS 62 DIA 56 PUL    |
+| **0 minutes** (immediately after standing) | 113 SYS 77 DIA 89 PUL    |
+| **1 minute**                               | 115 SYS 76 DIA 88 PUL    |
+| **3 minutes**                              | 113 SYS 79 DIA 92 PUL    |
+| **5 minutes**                              | 104 SYS 74 DIA 96 PUL    |
+| **10 minutes**                             | 112 SYS 83 DIA 100 PUL   |
+
 ## [Considering]
 ### Butyric acid (Sup)
 ...
