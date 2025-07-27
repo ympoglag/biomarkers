@@ -10,6 +10,16 @@ diagnosis via Exclusion.
 
 ### POTS
 
+#### Exclusion via
+
+A spinal fluid leak (called spontaneous intracranial hypotension) may have the
+same signs and symptoms as POTS and should be excluded.[22]
+
+Other conditions that can cause similar symptoms, such as dehydration,
+orthostatic hypotension, heart problems, adrenal insufficiency, epilepsy, and
+Parkinson's disease, must not be present.[6]
+
+
 ### MCAS
 
 ### Cerebrospinal Fluid Leak
