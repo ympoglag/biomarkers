@@ -39,7 +39,7 @@ Thanks for providing your **Schellong Test** results. This test evaluates **orth
     
 
 ✅ **Interpretation:**  
-There is **no significant drop** in systolic (≥20 mmHg) or diastolic (≥10 mmHg), so **orthostatic hypotension is **not** present**.
+There is **no significant drop** in systolic (≥20 mmHg) or diastolic (≥10 mmHg), so **orthostatic hypotension is not present**.
 
 * * *
 
