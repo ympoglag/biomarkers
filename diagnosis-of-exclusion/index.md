@@ -11,3 +11,6 @@ diagnosis via Exclusion.
 ### POTS
 
 ### MCAS
+
+### Cerebrospinal Fluid Leak
+https://en.wikipedia.org/wiki/Cerebrospinal_fluid_leak
