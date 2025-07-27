@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -eo pipefail
 
+set -x
 script_dir="$( dirname "$(realpath "$0")" )" 
 
 tsv_to_html() {
