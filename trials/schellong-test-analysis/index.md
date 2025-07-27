@@ -1,137 +1,12 @@
----
-title: "Trials"
----
-**Last-Updated**: CURRENT_DATE
+# Schellong test analysis
 
-A list of trials/attempted therapies/things I've tried so far.
+Date: **27.07.2025**
 
-#### Confirmed diseases/disorders
+##### You said:
 
-- ADHD
-- Non-refreshing sleep despite normal sleep architecture
+Results of my Schellong Test, analyze it:
 
-#### Suspected diseases/disorders
-
-- Long Covid (LC)
-- Mast Cell Activation Syndrome (MCAS)
-- Post Finasteride Syndrome (PFS)
-
-### Legend
 ```
-LEGEND
-Bhv - Behavioral
-Rx  - Prescription
-Sup - Supplement
-```
-
-## [In Progress]
-### Allegra
-120-360mg  
-Trying 2x a day.  
-Just started trialing.
-
-**Suspected**: LC,MCAS
-
-### Desloratadin
-5-20mg  
-Minimal Sedation.  
-Trying 1x before sleep.
-Just started trialing.
-
-**Suspected**: LC,MCAS
-
-### L-Theanine (Sup)
-Possibly helps slightly with sleep quality.  
-Not sure tho.  
-Might stop soon.
-
-**Suspected**: SLEEP,ADHD
-
-### Neck Stretches (Bhv)
-1. Neck Rolls
-2. Upper Trapezius Stretch
-3. Levator Scapulae Stretch
-4. Chin Tucks
-5. Neck Extension Stretch
-6. Shoulder Blade Squeeze
-
-**Suspected**: LC,MCAS,PFS
-
-### Quercetin (Sup)
-Possibly helps slightly.
-Not sure tho.
-
-**Suspected**: MCAS
-
-### Quviviq (Rx)
-25-50mg  
-Significantly helps sleep duration and quality.  
-Little drowsiness/hangover (if any) the next day.
-
-**Prescription-for**: ADHD,SLEEP
-
-### Vyvanse (Rx)
-15-30mg  
-Split into 1-3 dosages (still experimenting).  
-Have been taking for 4+ years.  
-Effectiveness has been reduced over time (radically since having had COVID19).
-
-**Prescription-for**: ADHD
-
-## [Planned]
-### Low Dose Naltrexone LDN (Rx)
-
-**Suspected**: LC,MCAS(?),PFS(?)
-
-### Prozac (Rx)
-Low dose therapy (e.g. 1-2.5mg) is supposed to increase Allopregnanolone without
-actually messing with Serotonin (heavily risking SSRI side effects).
-
-> ...  
-> Turns out fluvoxamine upregulates 3AHSD ,which in turn upregulates AlloP synth.  
-> ...  
-
-<https://www.reddit.com/r/DrWillPowers/comments/1b43yop/stumbled_accidentally_onto_something_that_may_be/>
-
-> For me personally I’d say it doesn’t make a huge difference to side effects - it gets rid of the depression day and I think improves sleep somewhat. I haven’t noticed any effect on brain fog or sexual side effects.  
-> ...  
-
-<https://forum.propeciahelp.com/t/allopregnanolone-available-to-buy-online/60088/3>
-
-**Suspected**: PFS,DEPRESSION
-
-## [Previous]
-### ALCAR 1000-3000mg (Sup)
-Helped for postulized SFN.  
-Gave me more sensation on the body.  
-No significant mental benefits/differences.  
-
-**Suspected**: LC,PFS,ADHD
-
-### Guanfacine (Rx)
-1mg/2mg  
-Tried over 2 months.  
-Did nothing.
-
-**Prescription-for**: ADHD
-
-### Melatonin
-Raised my Prolactine.  
-Helped falling asleep, not staying asleep.  
-Did not noticably improve sleep quality.  
-Gave me slight headaches in the morning/rest of the day.  
-Stopped positive effects once my sleep schedule "settled" into a new regular.
-
-**Suspected**: ADHD,SLEEP
-
-### Xyzal
-Unsure if it did something.  
-Should try again over longer periods and track symptoms.
-
-**Suspected**: MCAS
-
-### Schellong-Test (27.07.2025)
-
 | Time                                       | Blood Pressure + Pulse   |
 | -----------------------------------------  | ------------------------ |
 | **10 minutes** (after lying down)          | 105 SYS 62 DIA 56 PUL    |
@@ -140,25 +15,85 @@ Should try again over longer periods and track symptoms.
 | **3 minutes**                              | 113 SYS 79 DIA 92 PUL    |
 | **5 minutes**                              | 104 SYS 74 DIA 96 PUL    |
 | **10 minutes**                             | 112 SYS 83 DIA 100 PUL   |
+```
 
-## [Considering]
-### Butyric acid (Sup)
-...
+###### ChatGPT said:
 
-### Lactoferrin (Sup)
-It has well-known antiviral, anti-inflammatory, and immunomodulatory properties.  
+Thanks for providing your **Schellong Test** results. This test evaluates **orthostatic regulation**, especially looking for **orthostatic hypotension** or **POTS (Postural Orthostatic Tachycardia Syndrome)** by monitoring heart rate and blood pressure after transitioning from lying to standing.
 
-**Immunomodulation**: It can modulate immune responses, sometimes helping calm
-hyperinflammation ("cytokine storm") seen in Long Covid.
+---
 
-Small studies and case reports suggest lactoferrin might help reduce some
-symptoms of Long Covid, especially fatigue, brain fog, and GI symptoms.
+### 🩺 **Key Findings:**
 
-**Mechanistic studies**: Lab research supports antiviral and anti-inflammatory
-effects, including against SARS-CoV-2.
+#### 1\. **Blood Pressure Changes**
 
-**Clinical trials**: As of 2024, there are few large, high-quality randomized
-controlled trials specifically for Long Covid. However, some open-label studies
-and anecdotal reports are promising.
+-   **Lying down (baseline)**: 105/62 mmHg
+    
+-   **Standing immediately**: 113/77 mmHg
+    
+-   **Fluctuations over 10 minutes**: remains relatively **stable**, ranging between 104–115 SYS and 74–83 DIA.
+    
 
-**Suspected**: PFS,LC
+✅ **Interpretation:**  
+There is **no significant drop** in systolic (≥20 mmHg) or diastolic (≥10 mmHg), so **orthostatic hypotension is **not** present**.
+
+---
+
+#### 2\. **Pulse Response**
+
+-   **Baseline (lying)**: 56 bpm
+    
+-   **Standing immediately**: 89 bpm
+    
+-   **At 10 minutes**: 100 bpm  
+    → **ΔHR = 100 – 56 = +44 bpm**
+    
+
+⚠️ **Interpretation:**
+
+-   A **≥30 bpm** increase within 10 minutes of standing (or ≥40 bpm in teens/young adults) **without hypotension** is **suggestive of POTS**.
+    
+-   You had a **+44 bpm** increase, which is **significant**, especially given your resting HR was quite low.
+    
+
+---
+
+### 📊 **Summary Diagnosis:**
+
+Criteria
+
+Finding
+
+Interpretation
+
+Orthostatic Hypotension
+
+No
+
+✅ Normal
+
+Heart Rate Increase ≥30 bpm
+
+Yes (Δ+44 bpm)
+
+⚠️ Consistent with **POTS**
+
+---
+
+### 🧠 Additional Notes:
+
+-   Your **resting pulse of 56** may reflect a low sympathetic tone or high parasympathetic activity (possibly due to fasting, medication withdrawal, or chronic fatigue).
+    
+-   A **standing pulse of 100 bpm** is not extreme in absolute terms, but the **relative increase** from 56 bpm is diagnostically relevant.
+    
+
+---
+
+### 🧪 Recommended Next Steps:
+
+-   Clinical correlation: Symptoms like **dizziness, palpitations, fatigue, or brain fog** upon standing would support a **POTS diagnosis**.
+    
+-   **Tilt-table test** or **24h Holter** may offer more detailed confirmation.
+    
+-   Review with a cardiologist or neurologist familiar with **dysautonomia** or **Long COVID/POTS overlap**, especially if symptoms match.
+
