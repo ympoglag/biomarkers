@@ -66,9 +66,10 @@ convert_md_to_html() {
         echo "Missing index.md" >&2
         exit 1
     }
+
     cp "${script_dir}/css-markdown.css" "${1}/markdown.css"
     convert-md-to-html "${1}/index.md"
-    sed -i "s|CURRENT_DATE|$(date '+%Y.%m.%d %T %Z')|g" "${1}/index.html"
+    sed -i "s|CURRENT_DATE|$(date -r "${1}/index.md" '+%Y.%m.%d %T %Z')|g" "${1}/index.html"
 }
 
 printf "Templating %s...\n" "$(date +%T)"
