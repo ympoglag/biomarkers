@@ -55,6 +55,8 @@ Might stop soon.
 5. Neck Extension Stretch
 6. Shoulder Blade Squeeze
 
+Significantly help with brain fog!
+
 **Suspected**: LC,MCAS,PFS
 
 ### Quercetin (Sup)
@@ -130,7 +132,7 @@ Should try again over longer periods and track symptoms.
 
 **Suspected**: MCAS
 
-### Schellong-Test (27.07.2025)
+### Schellong-Test 27.07.2025 (Bhv)
 
 | Time                                       | Blood Pressure + Pulse   |
 | -----------------------------------------  | ------------------------ |
