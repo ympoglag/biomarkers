@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 set -eo pipefail
 
-set -x
-script_dir="$( dirname "$(realpath "$0")" )" 
+script_dir="$(dirname "$(realpath "$0")")"
 
 tsv_to_html() {
     awk 'BEGIN { print "<table border=1>" }
@@ -63,7 +62,10 @@ autoformat_html() {
 }
 
 convert_md_to_html() {
-    [[ -e "${1}/index.md" ]] || { echo "Missing index.md" >&2; exit 1; }
+    [[ -e "${1}/index.md" ]] || {
+        echo "Missing index.md" >&2
+        exit 1
+    }
     cp "${script_dir}/css-markdown.css" "${1}/markdown.css"
     convert-md-to-html "${1}/index.md"
     sed -i "s|CURRENT_DATE|$(date '+%Y.%m.%d %T %Z')|g" "${1}/index.html"
