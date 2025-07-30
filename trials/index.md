@@ -27,7 +27,7 @@ Sup - Supplement
 
 ## [In Progress]
 ### Creatine
-6mg  
+6mg (2 scoops)  
 1x a day  
 For 6 weeks.
 
