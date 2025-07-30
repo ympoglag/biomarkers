@@ -13,6 +13,7 @@ A list of trials/attempted therapies/things I've tried so far.
 #### Suspected diseases/disorders
 
 - Long Covid (LC)
+- Postural orthostatic tachycardia syndrome (POTS)
 - Mast Cell Activation Syndrome (MCAS)
 - Post Finasteride Syndrome (PFS)
 
@@ -25,9 +26,18 @@ Sup - Supplement
 ```
 
 ## [In Progress]
+### Creatine
+6mg  
+1x a day  
+For 6 weeks.
+
+30.07. - 10.09.
+
+**Suspected**: LC,POTS
+
 ### Allegra
 120-360mg  
-Trying 2x a day.  
+Trying 2-3x a day.  
 Just started trialing.
 
 **Suspected**: LC,MCAS
@@ -57,7 +67,9 @@ Might stop soon.
 
 Significantly help with brain fog!
 
-**Suspected**: LC,MCAS,PFS
+**Helps**
+
+**Suspected**: LC,MCAS,POTS,PFS
 
 ### Quercetin (Sup)
 Possibly helps slightly.
@@ -70,13 +82,44 @@ Not sure tho.
 Significantly helps sleep duration and quality.  
 Little drowsiness/hangover (if any) the next day.
 
+**Helps significantly**
+
 **Prescription-for**: ADHD,SLEEP
+
+### Lactoferrin (Sup)
+1000mg Liposomal  
+1x a day  
+
+For 1 month.
+
+It has well-known antiviral, anti-inflammatory, and immunomodulatory properties.  
+
+**Immunomodulation**: It can modulate immune responses, sometimes helping calm
+hyperinflammation ("cytokine storm") seen in Long Covid.
+
+Small studies and case reports suggest lactoferrin might help reduce some
+symptoms of Long Covid, especially fatigue, brain fog, and GI symptoms.
+
+**Mechanistic studies**: Lab research supports antiviral and anti-inflammatory
+effects, including against SARS-CoV-2.
+
+**Clinical trials**: As of 2024, there are few large, high-quality randomized
+controlled trials specifically for Long Covid. However, some open-label studies
+and anecdotal reports are promising.
+
+**Suspected**: PFS,LC
+
+## [Paused]
 
 ### Vyvanse (Rx)
 15-30mg  
 Split into 1-3 dosages (still experimenting).  
 Have been taking for 4+ years.  
 Effectiveness has been reduced over time (radically since having had COVID19).
+
+Recently stopped (21.07. - +30.07.)
+
+**Unsure if Helps anymore**
 
 **Prescription-for**: ADHD
 
@@ -105,14 +148,14 @@ actually messing with Serotonin (heavily risking SSRI side effects).
 ## [Previous]
 ### ALCAR 1000-3000mg (Sup)
 Helped for postulized SFN.  
-Gave me more sensation on the body.  
+Gave me more sensation on the body, maybe.  
 No significant mental benefits/differences.  
 
 **Suspected**: LC,PFS,ADHD
 
 ### Guanfacine (Rx)
 1mg/2mg  
-Tried over 2 months.  
+Tried over 2 months, first 1mg then 2mg.  
 Did nothing.
 
 **Prescription-for**: ADHD
@@ -143,24 +186,8 @@ Should try again over longer periods and track symptoms.
 | **5 minutes**                              | 104 SYS 74 DIA 96 PUL    |
 | **10 minutes**                             | 112 SYS 83 DIA 100 PUL   |
 
+**Suspected**: POTS
+
 ## [Considering]
 ### Butyric acid (Sup)
 ...
-
-### Lactoferrin (Sup)
-It has well-known antiviral, anti-inflammatory, and immunomodulatory properties.  
-
-**Immunomodulation**: It can modulate immune responses, sometimes helping calm
-hyperinflammation ("cytokine storm") seen in Long Covid.
-
-Small studies and case reports suggest lactoferrin might help reduce some
-symptoms of Long Covid, especially fatigue, brain fog, and GI symptoms.
-
-**Mechanistic studies**: Lab research supports antiviral and anti-inflammatory
-effects, including against SARS-CoV-2.
-
-**Clinical trials**: As of 2024, there are few large, high-quality randomized
-controlled trials specifically for Long Covid. However, some open-label studies
-and anecdotal reports are promising.
-
-**Suspected**: PFS,LC
