@@ -13,8 +13,8 @@ A list of trials/attempted therapies/things I've tried so far.
 #### Suspected diseases/disorders
 
 - Long Covid (LC)
-- Postural orthostatic tachycardia syndrome (POTS)
 - Mast Cell Activation Syndrome (MCAS)
+- Postural orthostatic tachycardia syndrome (POTS)
 - Post Finasteride Syndrome (PFS)
 
 ### Legend
@@ -26,7 +26,15 @@ Sup - Supplement
 ```
 
 ## [In Progress]
-### Omega 3
+### Nicotine Patches
+10mg - 16 hours
+Every 16 hours continuously for 9 days.
+
+04.08. - 11.08.
+
+**Suspected**: LC,MCAS,POTS
+
+### Omega 3 (Sup)
 4 capsules  
 2x a day  
 8 total  
@@ -36,7 +44,7 @@ For 6 weeks.
 
 **Suspected**: LC,POTS
 
-### Creatine
+### Creatine (Sup)
 6mg (2 scoops)  
 1x a day  
 For 6 weeks.
@@ -88,7 +96,7 @@ Not sure tho.
 **Suspected**: MCAS
 
 ### Quviviq (Rx)
-25-50mg  
+50mg  
 Significantly helps sleep duration and quality.  
 Little drowsiness/hangover (if any) the next day.
 
