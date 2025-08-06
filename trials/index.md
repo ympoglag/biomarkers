@@ -26,6 +26,16 @@ Sup - Supplement
 ```
 
 ## [In Progress]
+### Omega 3
+4 capsules  
+2x a day  
+8 total  
+For 6 weeks.
+
+30.07. - 10.09.
+
+**Suspected**: LC,POTS
+
 ### Creatine
 6mg (2 scoops)  
 1x a day  
