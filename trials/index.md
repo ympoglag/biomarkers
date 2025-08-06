@@ -104,6 +104,10 @@ Little drowsiness/hangover (if any) the next day.
 
 **Prescription-for**: ADHD,SLEEP
 
+### HYLO GEL
+Eye drops that coat the eye better.
+Used as needed, sometimes multiple times a day.
+
 ### Lactoferrin (Sup)
 1000mg Liposomal  
 1x a day  
@@ -125,7 +129,7 @@ effects, including against SARS-CoV-2.
 controlled trials specifically for Long Covid. However, some open-label studies
 and anecdotal reports are promising.
 
-**Suspected**: PFS,LC
+**Suspected**: LC,PFS
 
 ## [Paused]
 
