@@ -34,6 +34,13 @@ Every 16 hours continuously for 9 days.
 
 **Suspected**: LC,MCAS,POTS
 
+### Nicotine Patches
+10mg - 17:30 every other day.
+
+Allows energy for exercise, only mild crashing afterwards.
+
+**Prescription-for**: ADHD
+
 ### Omega 3 (Sup)
 4 capsules  
 2x a day  
