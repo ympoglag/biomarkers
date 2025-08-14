@@ -32,12 +32,17 @@ Every 16 hours continuously for 9 days.
 
 04.08. - 11.08.
 
+Got some good initial reactions out of it.  
+Flattened after a while - will still continue - feels like a very mild
+stimulant.
+
 **Suspected**: LC,MCAS,POTS
 
-### Nicotine Patches
+### Ritalin (Rx)
 10mg - 17:30 every other day.
 
-Allows energy for exercise, only mild crashing afterwards.
+Allows energy for exercise - I seem to tend to crash afterwards however
+(post-exertional malaise catching up to me).
 
 **Prescription-for**: ADHD
 
