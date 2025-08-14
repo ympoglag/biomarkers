@@ -217,6 +217,19 @@ Should try again over longer periods and track symptoms.
 
 **Suspected**: POTS
 
+### Schellong-Test 14.08.2025 (Bhv)
+
+| Time                                       | Blood Pressure + Pulse   |
+| -----------------------------------------  | ------------------------ |
+| **10 minutes** (after lying down)          | 112 SYS 67 DIA 83 PUL    |
+| **0 minutes** (immediately after standing) | 122 SYS 70 DIA 108 PUL   |
+| **1 minute**                               | 113 SYS 74 DIA 112 PUL   |
+| **3 minutes**                              | 120 SYS 74 DIA 111 PUL   |
+| **5 minutes**                              | 122 SYS 72 DIA 114 PUL   |
+| **10 minutes**                             | 120 SYS 74 DIA 116 PUL   |
+
+**Suspected**: POTS
+
 ## [Considering]
 ### Butyric acid (Sup)
 ...
