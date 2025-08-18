@@ -1,6 +1,7 @@
 ---
 title: "Medical Findings"
 ---
+Befunde
 **Last-Updated**: CURRENT_DATE
 
 #### Summary of Key Diagnoses and Issues
@@ -180,7 +181,7 @@ Gangdilatation. Die Milz ist normgroß und homogen konfiguriert.
 
 **Unauffällig**
 
-### 18.8.2025 - Innerer Mediziner - ME/CFS - Post Covid Spezialist
+### 18.08.2025 - Innerer Mediziner - ME/CFS - Post Covid Spezialist
 *Anamnese*
 
 Patient stellt sich zur EO vor.
