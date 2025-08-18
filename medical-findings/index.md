@@ -179,3 +179,45 @@ partiell einschallbare Pankreas ist von regulärer Parenchymtextur, keine
 Gangdilatation. Die Milz ist normgroß und homogen konfiguriert.
 
 **Unauffällig**
+
+### 18.8.2025 - Innerer Mediziner - ME/CFS - Post Covid Spezialist
+*Anamnese*
+
+Patient stellt sich zur EO vor.
+
+- **Zwei COVID-19 Infektionen**, zuletzt **Dezember 2024**
+- **ADHS** vorbekannt
+- **Keine OPs**
+- **Allergien**: hausstaub, Katzenhaare (IgE deutlich erhöht: 800-900 IU/ml)
+- Wortfindungsstörungen
+- Konzentrationsprobleme, Brain Fog
+- Rechenstörungen
+- Kurzzeitgedächtnisstörungen
+- **PEM (Post-exertionelle Malaise)** typisch für Post-COVID / ME/CFS
+- Symptome nach Orgamsus - weist auf vegetative Dysregulation hin
+
+*Sensorische Symptome*:
+
+- Parästhesien an Händen/Füßen
+    + **EMG/Labor unauffällig** keine klassische periphere Neuropathie nachweisbar
+- Hyposmie (eingeschränkter Geruchssinn)
+- Trockene Augen
+- Palpitationen / hoher Puls
+- Reizüberflutung (Licht, Lärm)
+- Nicht erholsamer Schlaf
+- Cephalgien gelegentlich
+- Juckreiz an Stirn
+- Mutter: arterielle Hypertonie
+- Softwareentwickler (kognitiv anspruchsvolle Tätigkeit)
+- **Schellong-Test: 2x Positiv. POTS**
+
+*Prozedere*
+
+- Handdynanometer-Test
+- Kanadische Kriterien
+- IMD auf MCAS
+- NASA lean test
+- Laborkontrolle inkl. MCAS-Profil
+- Stuhluntersuchung auf Pathogene Keime
+
+**Diagnose**: V.a. ME/CFS
