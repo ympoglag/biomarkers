@@ -1,5 +1,5 @@
 ---
-title: "Trials"
+title: "Therapy"
 ---
 **Last-Updated**: CURRENT_DATE
 

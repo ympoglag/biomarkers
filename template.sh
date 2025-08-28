@@ -80,5 +80,6 @@ autoformat_html "./index.html"
 
 convert_md_to_html "./differential-diagnoses/"
 convert_md_to_html "./medical-findings/"
+convert_md_to_html "./therapy/"
 convert_md_to_html "./trials/"
 convert_md_to_html "./trials/schellong-test-analysis/"
