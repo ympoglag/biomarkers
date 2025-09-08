@@ -134,7 +134,7 @@ Netzhaut: Papille, Netzhaut, Gefäße o.B
 
 **Diagnose**: Re: Ast. myopicus compositus obliquus, Li: Ast. myopicus compositus rectus
 
-### 24.07.2025 - Urologe
+### 24.07.2025 - Leber - Ultraschall
 *Ultraschall Oberbauch*:  
 Die Leber ist normgroß und zeigt eine reguläre Echogenität. Keine fokale
 Leberparenchymläsion abgrenzbar. Die Gallenblase ist zartwandig und frei von
