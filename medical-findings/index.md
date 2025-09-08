@@ -134,16 +134,6 @@ Netzhaut: Papille, Netzhaut, Gefäße o.B
 
 **Diagnose**: Re: Ast. myopicus compositus obliquus, Li: Ast. myopicus compositus rectus
 
-### 17.07.2025 - Urologe
-kommt ad KO, Leberwerte oB
-
-*Sono Scrotum*: US Penis oB, kleine Plaques  
-*äuss. Genitale*: Hoden, Nebenhoden palpatorisch unauffällig, Penis oB  
-
-*Therapie*: Taladafil Ari Ftbl 5mg 90ST Rp 5x
-
-**Diagnose**: VA IPP, Asthenoteratozzospermie, Varikozele links
-
 ### 24.07.2025 - Urologe
 *Ultraschall Oberbauch*:  
 Die Leber ist normgroß und zeigt eine reguläre Echogenität. Keine fokale
