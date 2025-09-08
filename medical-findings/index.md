@@ -4,14 +4,6 @@ title: "Medical Findings"
 Befunde
 **Last-Updated**: CURRENT_DATE
 
-#### Summary of Key Diagnoses and Issues
-- **Cardiac**: No abnormalities, good tolerance of stimulants.  
-- **Urology**: Functional hypogonadism (high SHBG, low free T), ED, left varicocele (?), mild gynecomastia, asthenoteratozoospermia, possible early Peyronie’s (IPP).  
-- **Neurology**: Chronic paresthesia, no structural cause found on imaging.  
-- **Hand**: Bilateral chronic trigger thumb.  
-- **Sleep**: No sleep apnea.  
-- **Ophthalmology**: Moderate myopic astigmatism, otherwise normal.  
-
 ### 17.03.2021 - Kardiologe
 Cor: rein, rhythmisch, Pulmo: frei, VA, SKS, keine RGs, Ödeme: keine
 
