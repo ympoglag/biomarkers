@@ -76,10 +76,10 @@ def rewrite_html(html_path):
                 cells[0][
                     "style"
                 ] = "background-color:#FFE6E6;"  # Highlight first column
-            elif found == 2:
-                cells[0][
-                    "style"
-                ] = "background-color:#FFE6E6;"  # Highlight first column
+            # elif found == 2:
+            #     cells[0][
+            #         "style"
+            #     ] = "background-color:#FFE6E6;"  # Highlight first column
 
 
         # Now color the cells below the last content in each column, with event color
