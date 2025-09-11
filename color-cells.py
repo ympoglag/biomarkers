@@ -61,21 +61,26 @@ def rewrite_html(html_path):
             cells = row.find_all("td")
             if not cells:
                 continue  # skip header/empty rows
-            found = False
+            found = 0
             for cell in cells:
                 text = cell.get_text()
                 if "(-)" in text or "(+)" in text or "(!)" in text:
                     cell["style"] = "background-color:#FFB3B3;"
-                    found = True
+                    found = 1
                 elif "(?)" in text:
                     cell["style"] = "background-color:#FFD9FF;"
-                    found = True
+                    found = 2
                 elif text.strip() == "":  # Color empty cells
                     cell["style"] = f"background-color:{background_color_none};"
-            if found:
+            if found == 1:
                 cells[0][
                     "style"
                 ] = "background-color:#FFE6E6;"  # Highlight first column
+            elif found == 2:
+                cells[0][
+                    "style"
+                ] = "background-color:#FFE6E6;"  # Highlight first column
+
 
         # Now color the cells below the last content in each column, with event color
         color_cells_below_last_content(table, event_columns)
