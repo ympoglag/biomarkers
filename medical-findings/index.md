@@ -15,6 +15,8 @@ EKG und Echokardiographie unauffällig.
 **Unauffällig**
 
 ### 20.05.2021 - Handchirurg
+Angeboten: Operation von Sehnenscheiden-Einengungen (Tendovaginosis stenosans)
+
 **Diagnose**: Chronische Tendovaginitis stenosans Daumen beidseits  
 
 ### 28.01.2025 - Kardiologe
@@ -185,3 +187,44 @@ Patient stellt sich zur EO vor.
 - Stuhluntersuchung auf Pathogene Keime
 
 **Diagnose**: V.a. ME/CFS
+
+### 16.09.2025 - Innerer Mediziner - ME/CFS - Post Covid Spezialist
+**Anamnese**
+
+Patient stellt sich zur Verlaufskontrolle vor.
+
+- IMD auf MCAS: keine relevant.
+- PEM ist nicht diagnostiziert (Handdynanometer, 1 Std. Unterschied).
+- Nicht destotrotz wünscht sich der Patient bei Kognitiven ME CFS Symptomen : LDN Therapie
+- LDN : Therapie
+    - **Blockade von Opioidrezeptoren** für kurze Zeit führt zu einer
+      "Gegenreaktion" des Körpers:
+        - vermehrte Produktion von **Endorphinen** und **enkaphalinen**
+          Substanzen (körpereigene Opiate)
+
+        - Modulation des Immunsystems
+
+        - Hemmen von **entzündungsfördernden Botenstoffen** (z.B. TNF-,
+          Interleukine)
+    - **Wirkung auf TLR4 (Toll-like receptor 4) entzündungshemmend auf Mikroglia
+      im zentralen Nervensystem.
+
+    - **NW:*
+        - **Schlafstörungen / lebhafte Träume** (häufig, vor allem in der ersten
+          Woche)
+        - **Kopfschmerzen**
+        - **Magen-Darm-Beschwerden** (z.B. Übelkeit)
+        - **Verstärkung von Symptomen in der Anfangsphase** (eine sogenannte
+          Erstverschlimmerung)
+        - **Muskel- oder Gliederschmerzen**
+        - **Stimmungsschwankungen**
+        - In seltenen Fällen: **erhöhter Blutdruck** oder **Allergieähnliche
+          Reaktionen**
+
+**Prozedere**
+
+- Beginn mit Rupatadin 10 mg 1-0-0-0 bei ausgelenktem IgE
+- LDN 0,5 mg 0-0-1-0 (Um 0,5 mg alle 2 Wochen steigern bei guter Verträglichkeit) als Off label auf Wunsch des Patienten
+
+
+**Diagnose**: V.a. ME/CFS, ADH
