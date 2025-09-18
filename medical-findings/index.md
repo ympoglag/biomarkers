@@ -270,5 +270,4 @@ Patient stellt sich zur Verlaufskontrolle vor.
 - Beginn mit Rupatadin 10 mg 1-0-0-0 bei ausgelenktem IgE
 - LDN 0,5 mg 0-0-1-0 (Um 0,5 mg alle 2 Wochen steigern bei guter Verträglichkeit) als Off label auf Wunsch des Patienten
 
-
 **Diagnose**: V.a. ME/CFS, ADHS
