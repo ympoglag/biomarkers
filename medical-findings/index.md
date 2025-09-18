@@ -206,10 +206,10 @@ Patient stellt sich zur Verlaufskontrolle vor.
 
         - Hemmen von **entzündungsfördernden Botenstoffen** (z.B. TNF-,
           Interleukine)
-    - **Wirkung auf TLR4 (Toll-like receptor 4) entzündungshemmend auf Mikroglia
+    - **Wirkung auf TLR4 (Toll-like receptor 4)** entzündungshemmend auf Mikroglia
       im zentralen Nervensystem.
 
-    - **NW:*
+    - **NW:**
         - **Schlafstörungen / lebhafte Träume** (häufig, vor allem in der ersten
           Woche)
         - **Kopfschmerzen**
