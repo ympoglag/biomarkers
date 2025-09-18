@@ -188,6 +188,50 @@ Patient stellt sich zur EO vor.
 
 **Diagnose**: V.a. ME/CFS
 
+### 08.09.2025 - Neurologe - ME/CFS Spezialist
+**Anamnese/aktuelle Beschwerden**
+
+Erstvorstellung mit der Bitte um eine Zweitmeinung. Der 37-jährige Patient
+berichtet über eine im Anschluss an eine COVID Infektion (Dezember 2023)
+aufgetretene und nach einer zweiten COVID Infektion verstärkte komplexe
+Symptomatik. Initial im Vordergrund Parästhesien an den Händen und Füßen (links
+betont), im Verlauf auch kognitive Symptome (im Sinne eines „brain-fogs“ mit
+Wortfindungsstörungen, Konzentrationsstörungen, Denkschwierigkeit). Es besteht
+auch eine massive Müdigkeit bzw. Belastungsintoleranz. Nach körperlicher
+Anstrengung komme es zu einer muskulären Malaise. An weiteren Beschwerden
+zurzeit auch eine verminderte Empfindung für sensible Reize bei gleichzeitig
+erhöhter Lärm- und Lichtempfindlichkeit. Die Parästhesien zuletzt weitgehend
+gebessert, aber die übrigen Symptome nach wie vor sehr belastend mit einer
+deutlichen Beeinträchtigung der Lebensqualität.
+
+Frühere Krankheiten: ADHS, derzeit keine Behandlung notwendig.
+Keine laufende Medikation, frühere verschiede Behandlungsversuche ohne Erfolg.
+
+**Zusatzbefunde**
+
+Im Rahmen der bislang erfolgten sehr extensivem Abklärung (bei V.a. ME/CFS) im
+Labor keine relevanten erklärenden Auffälligkeiten inklusive Autoantikörper.
+Internistisch konnte ein pathologischer Schellong-Test erhoben werden, die
+Diagnose POTS (noch) nicht erfolgt. MRT-Schädel negativ,
+Nervenleitgeschwindigkeit unauffällig.
+
+**Neurostatus**
+
+Allseits unauffällige muskuläre Trophik, muskuläre Kraft unauffällig ebenso
+Muskeltonus. Muskeleigenreflexe lebhaft seitengleich. Pyramidenbahnzeichen
+negativ. Die Sensibilität unauffällig. Der übrige Neurostatus unauffällig.
+
+**Zusammenfassung und weiteres Vorgehen**
+
+Zusammenfassend sehe ich auf Basis der Anamnese, des klinischen Status und der
+erfolgten Untersuchungen keine neurologische/morphologische Basis für die
+Beschwerden. (Trotzdem könnten noch AChR-Antikörper und MuSK-AK zum Ausschluss
+einer Myasthenie nachbestimmt werden.) Die Klinik wäre insgesamt am ehesten mit
+einem ME/CFS vereinbar. Aus meiner Sicht wäre ein pragmatische Therapieansatz
+(Pacing, wie vom Pat. schon praktiziert) zu empfehlen.
+
+**Diagnose**: ME/CFS
+
 ### 16.09.2025 - Innerer Mediziner - ME/CFS - Post Covid Spezialist
 **Anamnese**
 
