@@ -5,16 +5,18 @@ title: "Therapy"
 
 A list of trials/attempted therapies/things I've tried so far.
 
+#### Unlikely diseases/disorders
+
+- Mast Cell Activation Syndrome (MCAS)
+
 #### Confirmed diseases/disorders
 
 - ADHD
-- Non-refreshing sleep despite normal sleep architecture
 
 #### Suspected diseases/disorders
 
 - Postural orthostatic tachycardia syndrome (POTS)
-- Mast Cell Activation Syndrome (MCAS)
-- Long Covid (LC)
+- ME/CFS - Long Covid (LC)
 - Post Finasteride Syndrome (PFS)
 
 ### Legend
@@ -26,17 +28,8 @@ Sup - Supplement
 ```
 
 ## [In Progress]
-### Nicotine Patches
-10mg - 16 hours  
-Every 16 hours continuously for 9 days.  
-
-Theorized to help with cholinergic issues resulting from Long Covid.
-
-04.08.25 - 11.08.25
-
-Got some good initial reactions out of it.  
-Flattened after a while - will continue indefinitely - feels like a very mild
-stimulant.
+### Low Dose Naltrexone LDN (Rx)
+0,5 mg up to 4,5 mg over 8 weeks.
 
 **Suspected**: LC
 
@@ -51,32 +44,10 @@ Allowed me to taper off Vyvanse without sleep disruption
 
 **Prescription-for**: ADHD,SLEEP
 
-### PEA+LUT (Sup)
-Ultramicronized  
-700 mg + 70mg (Glialia) 1-0-0  
-
-16.08.2025 - 15.11.2025
-
-**Suspected**: LC,MCAS,PFS
-
-### Quercetin (Sup)
-500mg 1-0-0  
-
-Seems to help prevent crashes slightly.
-
-**Suspected**: MCAS
-
-### HYLO GEL
-Eye drops that coat the eye better.
-Used as needed, sometimes multiple times a day.
-
-**Helps significantly** with blurry view / eye discomfort caused by dry eyes.
-
 ### Ritalin (Rx)
-10mg - 17:30 sometimes.
+5mg used 2x throughout the day.
 
-Energy boosts - I seem to tend to crash afterwards however.
-Don't use it often.
+Small Energy boosts - I tend to crash after 10mg.
 
 **Prescription-for**: ADHD
 
@@ -86,17 +57,7 @@ Antihistamine (H1) that stabilizes Mast Cells.
 
 20.08.25 - 
 
-**Suspected**: MCAS,LC
-
-### Famotidin (Rx)
-
-20.08.25 - 
-
-**Suspected**: MCAS,LC
-
-### Desloratadin (Rx)
-
-20.08.25 - 
+MCAS was deemed unlikely by clinician, still evaluating if Ketitofen doesn't still help. (Probably not, but still unsure - I'm trialing on/off).
 
 **Suspected**: MCAS,LC
 
@@ -109,33 +70,7 @@ For 6 weeks.
 
 **Suspected**: LC,POTS
 
-### L-Citrullin Malat (Sup)
-3g  
-1x a day  
-For 6 weeks.
-
-30.07. - 10.09.
-
-**Suspected**: LC,POTS
-
-### Allegra
-120-360mg 1-0-1  
-Trying 2-3x a day.  
-
-Seems to help with brain-fog / malaise slightly.  
-
-**Suspected**: LC,MCAS
-
-### Omega 3 (Sup)
-4 capsules  
-2x a day  
-8 total  
-For 6 weeks.
-
-30.07. - 10.09.
-
-**Suspected**: LC,POTS
-
+## [Paused]
 ### L-Theanine (Sup)
 Possibly helps slightly with sleep quality.  
 Not sure tho.  
@@ -158,7 +93,34 @@ Significantly help with brain fog!
 
 **Suspected**: LC,MCAS,POTS,PFS
 
-## [Paused]
+### PEA+LUT (Sup)
+Ultramicronized  
+700 mg + 70mg (Glialia) 1-0-0  
+
+16.08.2025 - 15.11.2025
+
+Seemed useful, esp. in combination with smell training! 
+Should continue to re-evaluate - sold out atm.
+
+**Suspected**: LC
+
+### Nicotine Patches
+10mg - 16 hours  
+Every 16 hours continuously for 9 days.  
+
+Theorized to help with cholinergic issues resulting from Long Covid.
+
+04.08.25 - 11.08.25
+
+Got some good initial reactions out of it.  
+Flattened after a while - continued for a bit - felt like a very mild
+stimulant.
+
+Once got nausea as a reaction to a 15mg Nicotine Patch.
+
+Currently paused.
+
+**Suspected**: LC
 
 ### Vyvanse (Rx)
 15-30mg  
@@ -172,10 +134,30 @@ Recently stopped (21.07. - +30.07.)
 
 **Prescription-for**: ADHD
 
-## [Planned]
-### Low Dose Naltrexone LDN (Rx)
+### Desloratadin (Rx)
 
-**Suspected**: LC,MCAS(?),PFS(?)
+20.08.25 - 
+
+**Suspected**: MCAS,LC
+
+### HYLO GEL
+Eye drops that coat the eye better.
+Used as needed, sometimes multiple times a day.
+
+Currently not needed.
+
+**Helps significantly** with blurry view / eye discomfort caused by dry eyes.
+
+### L-Citrullin Malat (Sup)
+3g  
+1x a day  
+For 6 weeks.
+
+30.07. - 10.09.
+
+**Suspected**: LC,POTS
+
+## [Planned]
 
 ### Prozac (Rx)
 Low dose therapy (e.g. 1-2.5mg) is supposed to increase Allopregnanolone without
@@ -195,8 +177,44 @@ actually messing with Serotonin (heavily risking SSRI side effects).
 **Suspected**: PFS,DEPRESSION
 
 ## [Previous]
+### Allegra
+120-360mg 1-0-1  
+Trying 2-3x a day.  
+
+Didn't do much.
+
+**Suspected**: LC,MCAS
+
+### Omega 3 (Sup)
+4 capsules  
+2x a day  
+8 total  
+For 6 weeks.
+
+30.07. - 10.09.
+
+Just doesn't seem to matter at all.
+
+**Suspected**: LC,POTS
+
+### Quercetin (Sup)
+500mg 1-0-0  
+
+Seems to help prevent crashes slightly.
+
+**Suspected**: MCAS
+
+### Famotidin (Rx)
+
+20.08.25 - 10.09.25
+
+Discontinued as MCAS was deemed unlikely by clinician.
+
+Might have contributed to occasional nausea.
+
+**Suspected**: MCAS,LC
+
 ### ALCAR 1000-3000mg (Sup)
-Helped for postulized SFN.  
 Gave me more sensation on the body, maybe.  
 No significant mental benefits/differences.  
 
@@ -205,7 +223,7 @@ No significant mental benefits/differences.
 ### Guanfacine (Rx)
 1mg/2mg  
 Tried over 2 months, first 1mg then 2mg alongside Vyvanse.  
-Did nothing.  
+Did absolutely nothing.  
 
 **Prescription-for**: ADHD
 
