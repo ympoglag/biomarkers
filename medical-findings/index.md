@@ -3,6 +3,7 @@ title: "Medical Findings"
 ---
 
 Befunde
+
 **Last-Updated**: CURRENT_DATE
 
 ### 17.03.2021 - Kardiologe

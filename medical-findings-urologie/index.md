@@ -1,7 +1,9 @@
 ---
 title: "Medical Findings - Urologie"
 ---
-Befunde
+
+Befunde (Urologie)
+
 **Last-Updated**: CURRENT_DATE
 
 ### 08.01.2025 - Urologie
