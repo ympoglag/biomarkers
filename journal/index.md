@@ -58,11 +58,10 @@ Keine genannten Symptome waren pre-exercise.
 
     + 3ter Tag danach
 
-
-#### Template
-| 2025-09-22 |        |        |           |         |         |        |         | |
-
 [**Back to Overview**](../overview/index.html)
+
+<!-- #### Template -->
+<!-- | 2025-09-22 |        |        |           |         |         |        |         | | -->
 
 <!-- vim: set nowrap tw=0: -->
 
