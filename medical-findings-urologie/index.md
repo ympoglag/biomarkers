@@ -32,3 +32,5 @@ kommt ad KO, Leberwerte oB
 *Therapie*: Taladafil Ari Ftbl 5mg 90ST Rp 5x
 
 **Diagnose**: VA IPP, Asthenoteratozzospermie, Varikozele links
+
+[**Back to Overview**](../overview/index.html)

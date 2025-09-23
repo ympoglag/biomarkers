@@ -286,3 +286,5 @@ failure, or physical performance. (Good safety.)
 ### Butyric acid (Sup)
 Activates PPAR-α - however causes bad smells and strongly irritates the stomach.  
 PPAR-α is also activated by PEA-LUT without the above issues.  
+
+[**Back to Overview**](../overview/index.html)

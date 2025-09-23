@@ -272,3 +272,5 @@ Patient stellt sich zur Verlaufskontrolle vor.
 - LDN 0,5 mg 0-0-1-0 (Um 0,5 mg alle 2 Wochen steigern bei guter Verträglichkeit) als Off label auf Wunsch des Patienten
 
 **Diagnose**: V.a. ME/CFS, ADHS
+
+[**Back to Overview**](../overview/index.html)
