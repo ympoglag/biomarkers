@@ -32,31 +32,33 @@ Keine genannten Symptome waren pre-exercise.
 
     + kurz danach (19:00-20:00+) / am selben Tag
         * Fatigue
-        * Leichtes kribbeln in händen und füßen
         * Fühl mich "ausgetrocknet" / gefühlt trockene Augen
+        * Leichtes kribbeln in händen und füßen
         * Schlechter Schlaf
 
     + 1ter Tag danach
         * Fatigue
-        * Leichtes kribbeln in händen und füßen über den ganzen Tag verteilt
-        * Fühl mich "ausgetrocknet" / gefühlt trockene Augen über den ganzen Tag verteilt
-        * Leichter Husten manchmal
-        * Kalte Hände/Füße
-        * Steifer Nacken (signifikant)
-        * Kopfschmerzen
-        * ins Narrenkastl schauen
-        * Geräusch sensibel
         * "Druck in der Brust / beim Atmen"
+        * Fühl mich "ausgetrocknet" / gefühlt trockene Augen über den ganzen Tag verteilt
+        * Geräusch sensibel
+        * Kalte Hände/Füße
+        * Kopfschmerzen
+        * Leichter Husten manchmal
+        * Leichtes kribbeln in händen und füßen über den ganzen Tag verteilt
+        * Steifer Nacken (signifikant)
+        * ins Narrenkastl schauen
 
     + 2ter Tag danach
         * Fatigue
-        * Kalte Hände/Füße
-        * Steifer Nacken (leicht)
-        * ins Narrenkastl schauen
-        * Kopfschmerzen
-        * Trockene Augen
-        * Sehr Geräusch-Sensibel
         * "Druck in der Brust / beim Atmen"
+        * Kalte Hände/Füße
+        * Kopfschmerzen
+        * Leichter Husten manchmal
+        * Sehr Geräusch-Sensibel
+        * Steifer Nacken (leicht)
+        * Trockene Augen
+        * ins Narrenkastl schauen
+        * leichte Bauchschmerzen
 
     + 3ter Tag danach
 
