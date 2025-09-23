@@ -8,14 +8,18 @@ A list of trials/attempted therapies/things I've tried so far.
 #### Confirmed diseases/disorders
 
 - ADHD
-- Non-refreshing sleep despite normal sleep architecture
+- Low-refreshing sleep despite normal sleep architecture
 
 #### Suspected diseases/disorders
 
-- Postural orthostatic tachycardia syndrome (POTS)
-- Mast Cell Activation Syndrome (MCAS)
 - Long Covid (LC)
+- Postural orthostatic tachycardia syndrome (POTS)
+
 - Post Finasteride Syndrome (PFS)
+
+#### Previously Suspected, now deemed Unlikely
+
+- Mast Cell Activation Syndrome (MCAS)
 
 ### Legend
 ```
@@ -26,19 +30,6 @@ Sup - Supplement
 ```
 
 ## [In Progress]
-### Nicotine Patches
-10mg - 16 hours  
-Every 16 hours continuously for 9 days.  
-
-Theorized to help with cholinergic issues resulting from Long Covid.
-
-04.08.25 - 11.08.25
-
-Got some good initial reactions out of it.  
-Flattened after a while - will continue indefinitely - feels like a very mild
-stimulant.
-
-**Suspected**: LC
 
 ### Quviviq (Rx)
 50mg 0-0-1  
@@ -50,21 +41,6 @@ Allowed me to taper off Vyvanse without sleep disruption
 **Helps significantly**
 
 **Prescription-for**: ADHD,SLEEP
-
-### PEA+LUT (Sup)
-Ultramicronized  
-700 mg + 70mg (Glialia) 1-0-0  
-
-16.08.2025 - 15.11.2025
-
-**Suspected**: LC,MCAS,PFS
-
-### Quercetin (Sup)
-500mg 1-0-0  
-
-Seems to help prevent crashes slightly.
-
-**Suspected**: MCAS
 
 ### HYLO GEL
 Eye drops that coat the eye better.
@@ -109,6 +85,8 @@ For 6 weeks.
 
 **Suspected**: LC,POTS
 
+## [Paused]
+
 ### L-Citrullin Malat (Sup)
 3g  
 1x a day  
@@ -118,47 +96,16 @@ For 6 weeks.
 
 **Suspected**: LC,POTS
 
-### Allegra
-120-360mg 1-0-1  
-Trying 2-3x a day.  
+### PEA+LUT (Sup)
+Ultramicronized  
+700 mg + 70mg (Glialia) 1-0-0  
 
-Seems to help with brain-fog / malaise slightly.  
+16.08.2025 - 15.11.2025
 
-**Suspected**: LC,MCAS
+Seem to help a lot along with smell training.  
+Should retrial.
 
-### Omega 3 (Sup)
-4 capsules  
-2x a day  
-8 total  
-For 6 weeks.
-
-30.07. - 10.09.
-
-**Suspected**: LC,POTS
-
-### L-Theanine (Sup)
-Possibly helps slightly with sleep quality.  
-Not sure tho.  
-Might stop soon.  
-Don't take it often.
-
-**Suspected**: SLEEP,ADHD
-
-### Neck Stretches (Bhv)
-1. Neck Rolls
-2. Upper Trapezius Stretch
-3. Levator Scapulae Stretch
-4. Chin Tucks
-5. Neck Extension Stretch
-6. Shoulder Blade Squeeze
-
-Significantly help with brain fog!
-
-**Helps**
-
-**Suspected**: LC,MCAS,POTS,PFS
-
-## [Paused]
+**Suspected**: LC,MCAS,PFS
 
 ### Vyvanse (Rx)
 15-30mg  
@@ -195,6 +142,75 @@ actually messing with Serotonin (heavily risking SSRI side effects).
 **Suspected**: PFS,DEPRESSION
 
 ## [Previous]
+
+### Neck Stretches (Bhv)
+1. Neck Rolls
+2. Upper Trapezius Stretch
+3. Levator Scapulae Stretch
+4. Chin Tucks
+5. Neck Extension Stretch
+6. Shoulder Blade Squeeze
+
+Significantly help with brain fog when neck tension comes alongside it.
+
+Neck tension has subsided.
+
+**Helps**
+
+**Suspected**: LC,MCAS,POTS,PFS
+
+### Allegra
+120-360mg 1-0-1  
+Trying 2-3x a day.  
+
+Seems to help with brain-fog / malaise slightly.  
+I know have better antihistamines (ketitofen, famotidine, ...).
+
+**Suspected**: LC,MCAS
+
+### Quercetin (Sup)
+500mg 1-0-0  
+
+Seems to help prevent crashes slightly.
+
+**Suspected**: MCAS
+
+### Nicotine Patches
+10mg - 16 hours  
+Every 16 hours continuously for 9 days.  
+
+Theorized to help with cholinergic issues resulting from Long Covid.
+
+04.08.25 - 11.08.25
+
+Got some good initial reactions out of it.  
+Flattened after a while - will continue indefinitely - feels like a very mild
+stimulant.
+
+Got nausea from it once.
+
+**Suspected**: LC
+
+### L-Theanine (Sup)
+Possibly helps slightly with sleep quality.  
+Not sure tho.  
+Might stop soon.  
+Don't take it often.
+
+**Suspected**: SLEEP,ADHD
+
+### Omega 3 (Sup)
+4 capsules  
+2x a day  
+8 total  
+For 6 weeks.
+
+30.07. - 10.09.
+
+Did absolutely nothing.
+
+**Suspected**: LC,POTS
+
 ### ALCAR 1000-3000mg (Sup)
 Helped for postulized SFN.  
 Gave me more sensation on the body, maybe.  
