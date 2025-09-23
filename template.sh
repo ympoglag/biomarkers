@@ -67,7 +67,10 @@ convert_md_to_html() {
         exit 1
     }
 
-    cpif "${script_dir}/css-markdown.css" "${1}/markdown.css"
+    if [[ "$2" != "no" ]]; then
+        cpif "${script_dir}/css-markdown.css" "${1}/markdown.css"
+    fi
+
     convert-md-to-html "${1}/index.md"
     sed -i "s|CURRENT_DATE|$(date -r "${1}/index.md" '+%Y.%m.%d %T %Z')|g" "${1}/index.html"
 }
@@ -79,7 +82,7 @@ template "./index.template.html"
 autoformat_html "./index.html"
 
 convert_md_to_html "./differential-diagnoses/"
-convert_md_to_html "./journal/"
+convert_md_to_html "./journal/" "no"
 convert_md_to_html "./medical-findings-urologie/"
 convert_md_to_html "./medical-findings/"
 convert_md_to_html "./overview/"

@@ -1,6 +1,7 @@
 ---
 title: "Medical Findings"
 ---
+
 Befunde
 **Last-Updated**: CURRENT_DATE
 
