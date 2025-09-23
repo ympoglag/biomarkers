@@ -46,6 +46,7 @@ Keine genannten Symptome waren pre-exercise.
         * Kopfschmerzen
         * ins Narrenkastl schauen
         * Geräusch sensibel
+        * "Druck in der Brust / beim Atmen"
 
     + 2ter Tag danach
         * Fatigue
@@ -55,6 +56,7 @@ Keine genannten Symptome waren pre-exercise.
         * Kopfschmerzen
         * Trockene Augen
         * Sehr Geräusch-Sensibel
+        * "Druck in der Brust / beim Atmen"
 
     + 3ter Tag danach
 
