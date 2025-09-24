@@ -13,6 +13,8 @@ title: "Journal"
 | Well         | Wellbutrin RX 150mg 1-0-0 |
 | LDN          | Low Dose Naltrexone 0-0-1 |
 | Keti         | Ketitofen 0-0-1           |
+| Desl         | Desloratadine 0-0-1       |
+| Famo         | Famotidine 0-0-1          |
 
 | Date       | Mood   | Stress | Dizziness | Fatigue | Anxiety | Sport | Kribbel | GenP   | Taken                                                                                         |
 | -----      | -----  | -----  | -----     | -----   | ----    | ----  | ----    | ----   | ----                                                                                          |
@@ -21,8 +23,9 @@ title: "Journal"
 | 2025-09-19 | low    | high   | high      | high    | medium  | none  | none    | none   | Inderal, Ator, TASS, Famotidine|
 | 2025-09-20 | high   | medium | low       | low     | low     | low   | none    | none   | Qv, Cr, Keti, TASS, Ator, Famotidine|
 | 2025-09-21 | medium | medium | medium    | low     | low     | high  | slight  | slight | Qv, Cr, Keti, TASS, Ator, Famotidine|
-| 2025-09-22 | tired! | medium | low       | high    | medium  | none  | slight  | medium | Qv, Cr, Ator, Famotidine, LDN 1.5mg, Well|
-| 2025-09-23 | tired! | medium | low       | high    | medium  | none  | slight  | slight | Qv, Cr, Ator, Famotidine, LDN 1.5mg, Well|
+| 2025-09-22 | tired! | medium | low       | high    | medium  | none  | slight  | medium | Qv, Cr, Ator, Famo, LDN 1.5mg, Well|
+| 2025-09-23 | tired! | medium | low       | high    | medium  | none  | slight  | slight | Qv, Cr, Keti, Desl, Famotidine, LDN 1.5mg, Well|
+| 2025-09-24 | high   | low    | low       | medium  | low     | none  | slight  | slight | Qv, Cr, LDN 1.5mg, Well|
 
 #### Connections
 
@@ -63,6 +66,7 @@ Keine genannten Symptome waren pre-exercise.
     + 3ter Tag danach
         * Leichte Kopfschmerzen
         * Steifer Nacken (leicht)
+        * Trockene Augen
 
 [**Back to Overview**](../overview/index.html)
 
