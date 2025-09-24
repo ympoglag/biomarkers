@@ -61,6 +61,8 @@ Keine genannten Symptome waren pre-exercise.
         * leichte Bauchschmerzen
 
     + 3ter Tag danach
+        * Leichte Kopfschmerzen
+        * Steifer Nacken (leicht)
 
 [**Back to Overview**](../overview/index.html)
 
