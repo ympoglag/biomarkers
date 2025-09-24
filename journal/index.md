@@ -57,6 +57,7 @@ Keine genannten Symptome waren pre-exercise.
         * Kalte Hände/Füße
         * Kopfschmerzen
         * Leichter Husten manchmal
+        * Leichtes kribbeln in händen und füßen über den ganzen Tag verteilt
         * Sehr Geräusch-Sensibel
         * Steifer Nacken (leicht)
         * Trockene Augen
@@ -65,8 +66,9 @@ Keine genannten Symptome waren pre-exercise.
 
     + 3ter Tag danach
         * Leichte Kopfschmerzen
+        * Leichtes kribbeln in händen und füßen über den ganzen Tag verteilt
         * Steifer Nacken (leicht)
-        * Trockene Augen
+        * Trockene Augen (!!! - Hätte seit 1tem Tag an Augentropfen nehmen sollen)
 
 [**Back to Overview**](../overview/index.html)
 
