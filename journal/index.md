@@ -16,16 +16,18 @@ title: "Journal"
 | Desl         | Desloratadine 0-0-1       |
 | Famo         | Famotidine 0-0-1          |
 
-| Date       | Mood   | Stress | Dizziness | Fatigue | Anxiety | Sport | Kribbel | GenP   | Taken                                                                                         |
-| -----      | -----  | -----  | -----     | -----   | ----    | ----  | ----    | ----   | ----                                                                                          |
-| 2025-09-17 | medium | high   | medium    | low     | low     | none  | none    | none   | Qv, Cr|
-| 2025-09-18 | low    | medium | high      | medium  | medium  | low   | none    | none   | Quviviq, Cr, Keti, Inderal 10mg (Night) + Melatonin (1mg)|
-| 2025-09-19 | low    | high   | high      | high    | medium  | none  | none    | none   | Inderal, Ator, TASS, Famotidine|
-| 2025-09-20 | high   | medium | low       | low     | low     | low   | none    | none   | Qv, Cr, Keti, TASS, Ator, Famotidine|
-| 2025-09-21 | medium | medium | medium    | low     | low     | high  | slight  | slight | Qv, Cr, Keti, TASS, Ator, Famotidine|
-| 2025-09-22 | tired! | medium | low       | high    | medium  | none  | slight  | medium | Qv, Cr, Ator, Famo, LDN 1.5mg, Well|
-| 2025-09-23 | tired! | medium | low       | high    | medium  | none  | slight  | slight | Qv, Cr, Keti, Desl, Famotidine, LDN 1.5mg, Well|
-| 2025-09-24 | high   | low    | low       | medium  | low     | none  | slight  | slight | Qv, Cr, LDN 1.5mg, Well|
+| Date       | Mood     | Stress | Dizziness | Fatigue | Anxiety | Sport | Kribbel | GenP   | Taken                                                                                         |
+| -----      | -----    | -----  | -----     | -----   | ----    | ----  | ----    | ----   | ----                                                                                          |
+| 2025-09-17 | medium   | high   | medium    | low     | low     | none  | none    | none   | Qv, Cr|
+| 2025-09-18 | low      | medium | high      | medium  | medium  | low   | none    | none   | Quviviq, Cr, Keti, Inderal 10mg (Night) + Melatonin (1mg)|
+| 2025-09-19 | low      | high   | high      | high    | medium  | none  | none    | none   | Inderal, Ator, TASS, Famotidine|
+| 2025-09-20 | high     | medium | low       | low     | low     | low   | none    | none   | Qv, Cr, Keti, TASS, Ator, Famotidine|
+| 2025-09-21 | medium   | medium | medium    | low     | low     | high  | slight  | slight | Qv, Cr, Keti, TASS, Ator, Famotidine|
+| 2025-09-22 | low!     | medium | low       | high    | medium  | none  | slight  | medium | Qv, Cr, Ator, Famo, LDN 1.5mg, Well|
+| 2025-09-23 | low!     | medium | low       | high    | medium  | none  | slight  | slight | Qv, Cr, Keti, Desl, Famo, LDN 1.5mg, Well|
+| 2025-09-24 | high/low | low    | low       | medium  | medium  | none  | slight  | slight | Qv, Cr, LDN 1.5mg, Well|
+| 2025-09-25 | medium   | high   | medium    | medium  | medium  | none  | slight  | slight | Qv, Cr, LDN 1.5mg, Well, Famo|
+| 2025-09-26 | low      | medium | low       | medium  | medium  | none  | slight  | slight | Qv, Cr, LDN 1.5mg, Well, Famo|
 
 #### Connections
 
@@ -39,36 +41,58 @@ Keine genannten Symptome waren pre-exercise.
         * Leichtes kribbeln in händen und füßen
         * Schlechter Schlaf
 
-    + 1ter Tag danach
-        * Fatigue
+    + 1ter Tag danach (War Arbeitstag)
+        * Hohe Fatigue
         * "Druck in der Brust / beim Atmen"
+        * Depressive Stimmung großteils
         * Fühl mich "ausgetrocknet" / gefühlt trockene Augen über den ganzen Tag verteilt
         * Geräusch sensibel
         * Kalte Hände/Füße
         * Kopfschmerzen
         * Leichter Husten manchmal
         * Leichtes kribbeln in händen und füßen über den ganzen Tag verteilt
+        * Musste unter Tags hinlegen und ruhen
         * Steifer Nacken (signifikant)
         * ins Narrenkastl schauen
 
-    + 2ter Tag danach
-        * Fatigue
+    + 2ter Tag danach (War Arbeitstag)
+        * Hohe Fatigue
         * "Druck in der Brust / beim Atmen"
+        * Depressive Stimmung großteils
         * Kalte Hände/Füße
         * Kopfschmerzen
         * Leichter Husten manchmal
         * Leichtes kribbeln in händen und füßen über den ganzen Tag verteilt
+        * Musste unter Tags hinlegen und ruhen
         * Sehr Geräusch-Sensibel
         * Steifer Nacken (leicht)
         * Trockene Augen
         * ins Narrenkastl schauen
         * leichte Bauchschmerzen
 
-    + 3ter Tag danach
+    + 3ter Tag danach (War KEIN Arbeitstag)
+        * Fatigue
+        * Bessere Stimmung Hälfte des Tages / Depressive Stimmung andere Hälfte des Tages
+        * Kalte Hände/Füße
         * Leichte Kopfschmerzen
         * Leichtes kribbeln in händen und füßen über den ganzen Tag verteilt
-        * Steifer Nacken (leicht)
+        * Musste unter Tags hinlegen und ruhen
+        * Steifer Nacken
         * Trockene Augen (!!! - Hätte seit 1tem Tag an Augentropfen nehmen sollen)
+
+    + 4ter Tag danach (War Arbeitstag)
+        * Fatigue
+        * Kalte Hände/Füße
+        * Kopfschmerzen
+        * Leichter Husten manchmal
+        * Musste NICHT unter Tags hinlegen und ruhen
+        * Steifer Nacken (leicht)
+
+    + 5ter Tag danach (War KEIN Arbeitstag)
+        * Fatigue
+        * Kopfschmerzen (!)
+        * Steifer Nacken
+        * Leichter Husten manchmal
 
 [**Back to Overview**](../overview/index.html)
 
@@ -76,4 +100,3 @@ Keine genannten Symptome waren pre-exercise.
 <!-- | 2025-09-22 |        |        |           |         |         |        |         | | -->
 
 <!-- vim: set nowrap tw=0: -->
-
