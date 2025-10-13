@@ -1,4 +1,4 @@
-[BMT-v0] Ympoglag (2025-10-07T14:04Z)	17.05.2016	19.04.2017	12.12.2017	17.03.2021	21.09.2021	24.08.2022	05.09.2023	21.11.2024	17.12.2024	02.01.2025	30.01.2025	04.02.2025	05.02.2025	11.03.2025	12.03.2025	13.03.2025	14.03.2025	26.03.2025	15.04.2025	24.04.2025	08.05.2025	12.05.2025	21.05.2025	26.06.2025	30.06.2025	11.07.2025	22.08.2025	28.08.2025	01.09.2025	01.10.2025
+[BMT-v0] Ympoglag (2025-10-13T10:03Z)	17.05.2016	19.04.2017	12.12.2017	17.03.2021	21.09.2021	24.08.2022	05.09.2023	21.11.2024	17.12.2024	02.01.2025	30.01.2025	04.02.2025	05.02.2025	11.03.2025	12.03.2025	13.03.2025	14.03.2025	26.03.2025	15.04.2025	24.04.2025	08.05.2025	12.05.2025	21.05.2025	26.06.2025	30.06.2025	11.07.2025	22.08.2025	28.08.2025	01.09.2025	01.10.2025
 Meta:Event		Begann eine 6-monatige Behandlung mit 1.25 mg Finasterid.					1te COVID-19 Infektion.	2te COVID-19 Infektion.																						
 Meta:Alter	28 Jahre																								37 Jahre					
 Meta:Gewicht	64 kg																								66.3 kg					
@@ -183,6 +183,10 @@ Klinische Chemie:Transferrinsättigung						31 % [16 - 45]			22 % [16 - 45]					
 Klinische Chemie:Triglyceride	39 mg/dl [0-150]		40 mg/dl [0 - 149]	53 mg/dl [< 150]		44 mg/dl [< 150]			44 mg/dl [< 150]			45 mg/dl [< 150]	44 mg/dl [< 150]		58 mg/dl [< 150]	50 mg/dL [< 150]												48 mg/dl [< 150]		53 mg/dl [< 150]
 Klinische Chemie:Troponin I-hs																											2.9 ng/L [< 45.2]			
 Klinische Chemie:non-HDL-Cholesterin																														70 mg/dl [< 130]
+Klinische Immunologie:Histamin (gesamt) i. Hep.-Bl. (ELISA)																											35.8 ng/ml [< 65.5]			
+Klinische Immunologie:Leukotriene i.U. (C4, D4, E4)																											620 pg/mg Krea (+) [< 385]			
+Klinische Immunologie:Leukotriene i.U. (ELISA)																											155.0 pg/ml [< 385]			
+Klinische Immunologie:Tryptase i. S. (FEIA)																											4.4 µg/l [< 11.4]			
 Laborwerte:Blutzucker_1_Std																	88 mg/dl (?) [Gestörte Glukosetoleranz: 140 - 199, Manifester Diabetes mellitus: ≥ 200]													
 Laborwerte:Blutzucker_2_Std																	80 mg/dl [< 140]													
 Laborwerte:Blutzucker_nüchtern																	94 mg/dl [< 100]													
@@ -262,6 +266,7 @@ Urindiagnostik:Harnweiße	neg mg/dl [neg]
 Urindiagnostik:Harnzucker	neg mg/dl [neg]																													
 Urindiagnostik:Hämoglobin (Ery)			negativ																											
 Urindiagnostik:Keton	neg mg/dl [neg]		negativ 									negativ mg/dl [< 2]			50 mg/dl (+) [< 2]															
+Urindiagnostik:Kreatinin i.U. spontan (enz.)																											0.25 g/l			
 Urindiagnostik:Leukozyten	neg L/µl [neg]		negativ									negativ Leu /µl [< 10]			negativ Leu /µl [< 10]															
 Urindiagnostik:Nitrit	neg  [neg]		negativ									negativ  [negativ]			negativ  [negativ]															
 Urindiagnostik:Schleimfäden /US			(++++) massenhaft 																											
