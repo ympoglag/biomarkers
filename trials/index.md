@@ -120,6 +120,16 @@ Recently stopped (21.07. - +30.07.)
 **Prescription-for**: ADHD
 
 ## [Planned]
+### Saffron
+
+**Suspected**: PFS
+
+### ATCC PTA 6475
+
+Reduces TNF-Alpha
+
+**Suspected**: PFS
+
 ### Low Dose Naltrexone LDN (Rx)
 
 **Suspected**: LC,MCAS(?),PFS(?)
