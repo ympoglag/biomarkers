@@ -6,6 +6,20 @@ title: "Differential diagnoses"
 Disorders, Diseases or Issues I am checking out, in hopes of getting some
 diagnosis via Exclusion.
 
+## Category - Pulmonary
+
+### Chest-wall inflammation (costochondritis)
+Sharp pain in the front/side of the chest, often worse with deep breaths, movement, or when pressing on a tender spot. Usually benign but can be quite painful.
+
+### Pleurisy (inflamed lung lining)
+Often post-viral: sharp, localized pain that worsens with breathing/coughing. Needs a check to rule out other causes.
+
+### Pericarditis (heart lining inflammation)
+Sharp pain that worsens lying down or with deep breaths and eases when sitting up/leaning forward.
+
+### Pulmonary embolism (blood clot in the lung)
+The most serious common cause of pleuritic pain—risk is elevated for months after COVID-19, so it must be considered.
+
 ### Myocarditis
 
 ### POTS
