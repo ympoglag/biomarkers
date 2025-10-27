@@ -1,4 +1,4 @@
-[BMT-v0] Ympoglag (2025-10-27T20:22Z)	17.05.2016	19.04.2017	12.12.2017	17.03.2021	21.09.2021	24.08.2022	05.09.2023	21.11.2024	17.12.2024	02.01.2025	30.01.2025	04.02.2025	05.02.2025	11.03.2025	12.03.2025	13.03.2025	14.03.2025	26.03.2025	15.04.2025	24.04.2025	08.05.2025	12.05.2025	21.05.2025	26.06.2025	30.06.2025	11.07.2025	22.08.2025	28.08.2025	01.09.2025	01.10.2025	16.10.2025	23.10.2025
+[BMT-v0] Ympoglag (2025-10-27T20:27Z)	17.05.2016	19.04.2017	12.12.2017	17.03.2021	21.09.2021	24.08.2022	05.09.2023	21.11.2024	17.12.2024	02.01.2025	30.01.2025	04.02.2025	05.02.2025	11.03.2025	12.03.2025	13.03.2025	14.03.2025	26.03.2025	15.04.2025	24.04.2025	08.05.2025	12.05.2025	21.05.2025	26.06.2025	30.06.2025	11.07.2025	22.08.2025	28.08.2025	01.09.2025	01.10.2025	16.10.2025	23.10.2025
 Meta:Event		Begann eine 6-monatige Behandlung mit 1.25 mg Finasterid.					1te COVID-19 Infektion.	2te COVID-19 Infektion.																								
 Meta:Alter	28 Jahre																								37 Jahre							
 Meta:Gewicht	64 kg																								66.3 kg							
@@ -143,10 +143,20 @@ Immunologie:IgE														877 IU/ml (+) [< 100]				928 IU/ml (+) [<100]						
 Immunologie:IgG													1283 mg/dl [700 - 1600]					1294 mg/dl [700 - 1600]														
 Immunologie:IgM													95 mg/dl [40 - 230]					97 mg/dl [40 - 230]														
 Infektionsdiagnostik:Bakteriologie:Helicobacter pylori-AG, Stuhl																													negativ [negativ]			
-Infektionsdiagnostik:HBV c-AK													negativ 																			
-Infektionsdiagnostik:HBV s-AG													negativ 																			
-Infektionsdiagnostik:HCV-AK													negativ 																			
+Infektionsdiagnostik:CMV IgM-AK																		<5 U/ml (?) [{'negativ': '<18', 'grenzwertig': '18-22', 'positiv': '>22'}]														
+Infektionsdiagnostik:EBV IgG-AK (EBNA-1)																		<3 U/ml (?) [{'negativ': '<5', 'grenzwertig': '5-20', 'positiv': '>20'}]														
+Infektionsdiagnostik:EBV IgG-AK (VCA)																		<10 U/ml (?) [{'negativ': '<20', 'positiv': '≥20'}]														
+Infektionsdiagnostik:EBV IgM-AK (VCA)																		<10 U/ml (?) [{'negativ': '<20', 'grenzwertig': '20-40', 'positiv': '>40'}]														
+Infektionsdiagnostik:Echinococcus granulosus AK																		negativ  [negativ]														
+Infektionsdiagnostik:Echinococcus multilocularis AK																		negativ  [negativ]														
+Infektionsdiagnostik:HAV-AK IgM																		negativ  [negativ]														
+Infektionsdiagnostik:HBV c-AK													negativ 					negativ  [negativ]														
+Infektionsdiagnostik:HBV s-AG													negativ 					negativ  [negativ]														
+Infektionsdiagnostik:HCV-AK													negativ 					negativ  [negativ]														
+Infektionsdiagnostik:HIV-AK/AG (Typ 1+2)																		negativ  [negativ]														
+Infektionsdiagnostik:SARS-CoV-2 N (Nukleokapsid)-AK																		positiv  (!) [negativ]														
 Infektionsdiagnostik:Stuhldiagnostik:Calprotectin im Stuhl																													14 mg/kg (?) [negativ < 50; grenzwertig 50 - 120; positiv > 120]			
+Infektionsdiagnostik:Toxoplasma gondii IgG-AK																		<0.2  [<10]														
 Klinische Chemie:ALAT (GPT)			12 U/l [0 - 49]	120 U/l (+) [< 50]		17 U/l [< 50]			18 U/l [< 50]			29 U/l [< 50]	31 U/l [< 50]		22 U/l [< 50]						27 U/l [< 50]				17 U/l [< 50]			27 U/l [< 50]		21 U/l [< 50]	18 U/l [< 50]	
 Klinische Chemie:ASAT (GOT)			22 U/l [0 - 49]	64 U/l (+) [< 50]		20 U/l [< 50]			23 U/l [< 50]			23 U/l [< 50]	25 U/l [< 50]		26 U/l [< 50]						26 U/l [< 50]				23 U/l [< 50]			22 U/l [< 50]		24 U/l [< 50]	20 U/l [< 50]	
 Klinische Chemie:Albumin																49.0 g/L [35 - 52]																
@@ -311,19 +321,6 @@ Urindiagnostik:Urinfarbe			gelb 									gelb 			goldgelb
 Urindiagnostik:Urintrübung			klar 									klar 			klar 																	
 Urindiagnostik:Urobilinogen	normal mg/dl [normal]		normal (0.2-1.0 mg/dl) 									negativ mg/dl [< 1]			negativ mg/dl [< 1]																	
 Urindiagnostik:pH	5  [5-9]		6.5  [5.0 - 8.0]									7.0  [5.0 - 9.0]			6.0  [5.0 - 9.0]																	
-Virologie:CMV IgM-AK																		<5 U/ml (?) [{'negativ': '<18', 'grenzwertig': '18-22', 'positiv': '>22'}]														
-Virologie:EBV IgG-AK (EBNA-1)																		<3 U/ml (?) [{'negativ': '<5', 'grenzwertig': '5-20', 'positiv': '>20'}]														
-Virologie:EBV IgG-AK (VCA)																		<10 U/ml (?) [{'negativ': '<20', 'positiv': '≥20'}]														
-Virologie:EBV IgM-AK (VCA)																		<10 U/ml (?) [{'negativ': '<20', 'grenzwertig': '20-40', 'positiv': '>40'}]														
-Virologie:Echinococcus granulosus AK																		negativ  [negativ]														
-Virologie:Echinococcus multilocularis AK																		negativ  [negativ]														
-Virologie:HAV-AK IgM																		negativ  [negativ]														
-Virologie:HBV c-AK																		negativ  [negativ]														
-Virologie:HBV s-AG																		negativ  [negativ]														
-Virologie:HCV-AK																		negativ  [negativ]														
-Virologie:HIV-AK/AG (Typ 1+2)																		negativ  [negativ]														
-Virologie:SARS-CoV-2 N (Nukleokapsid)-AK																		positiv  (!) [negativ]														
-Virologie:Toxoplasma gondii IgG-AK																		<0.2  [<10]														
 Vitamine:25-Hydroxy-Vitamin D3	12 ng/ml (-) [30-70]			9.0 ng/ml (-) [>= 10]		45.6 ng/ml [30 - 100]			34 ng/ml [30 - 100]			39 ng/ml [30 - 100]	38 ng/ml [30 - 100]		42 ng/ml [30 - 100]															37 ng/ml [30 - 100]	37 ng/ml [30 - 100]	
 Vitamine:25-Hydroxy-Vitamin D3-IFCC	29 nmol/l (-) [75-175]																															
 Vitamine:Folsäure				4.8 ng/ml [2.8 - 32.2]		9.7 ng/ml [2.8 - 32.2]			7.5 ng/ml [> 2.8]			7.0 ng/ml [> 2.8]	3.9 ng/ml [> 2.8]															5.4 ng/ml [> 2.8]		5.7 ng/ml [> 2.8]	6.7 ng/ml [> 2.8]	
