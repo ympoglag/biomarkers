@@ -6,3 +6,14 @@ title: "Overview"
 - [Medical-Findings / Befunde](../medical-findings/index.html) **/** [Differential-Diagnoses](../differential-diagnoses/index.html)  
 - [Trials](../trials/index.html)  
 - [Daily Journal](../journal/index.html)  
+
+---
+
+Current State:
+
+- Diagnosing Small Fiber Neuropathy (SFN) via skin biopsy (already registered,
+  need to organize a date!)
+
+- Evaluate the benefit/detriment of Brintellix (SSRI)
+
+- Evaluate the benefit/detriment of Brintellix (SSRI)

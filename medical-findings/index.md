@@ -275,3 +275,46 @@ Patient stellt sich zur Verlaufskontrolle vor.
 **Diagnose**: V.a. ME/CFS, ADHS
 
 [**Back to Overview**](../overview/index.html)
+
+### 13.11.2025 - Pneumologe
+**Anamnese**
+
+Erstvorstellung, seit 11/24 nach Covid Belastungsdyspnoe und trockener Husten, Trigger Belastung und Stress,
+danach kurzatmiger, schneller erschöpft, rezid Bruststechen eher rechts, kein Schleim, leichter Husten
+HNO: Nase rezid verstopft, keine Polypen - neuer Nasenspray hilft  
+Allergien getestet, Darm Mikrobiom getestet  
+Sport geht gar nicht  
+BA: Programmierer, IT, Home Office  
+HA: keine  
+FA: Allergien  
+Magen: kein Reflux/Sodbrennen  
+Schlaf: nicht gut, nicht erholsam, Schnarchen ab und zu - Polygraphie vor 5 Monaten laut Pat ob  
+
+**Klinischer Status**
+
+normale Atemfrequenz, VA, keine path RGs  
+
+**Befunde/Dokumente**
+
+Lungenfunktion - SentrySuite: BODY mit Lyse vom 12.11.2025: gute Mitarbeit, unauffällige Spirometrie, normale
+statische Volumina, normale Resistance  
+Befunde - Eigenlabor BGA vom 12.11.2025  
+Lungenfunktion - SentrySuite: BODY vom 12.11.2025: DLCO_SB 95, KCO_SB 93  
+
+**Diagnosen**
+
+polyvalente Inhalationsallergien HSM, Katze  
+infektbedingte bronchiale Hyperreagibiltät post Covid DD Belastungsasthma  
+postvirale Erschöpfung  
+
+**Durchleuchtung**
+
+Durchleuchtung ( 34 µGy/m2): kein rezentes Infiltrat, die Sinus frei
+
+**Procedere**
+
+Start ICS/LABA 1x tgl für mindestens 2 Wochen, bis maximal 4 Wochen. Mund ausspülen. Inhalationstechnik und
+Anwendung erklärt.  
+Kein Hinweis auf eine Obstruktion/COPD. Lungenfunktionell altersentsprechend.  
+Vagusnervstimulation empfohlen. TCM (Stärkung der Mitte) Katharina Ziegelbauer.  
+Kein Hinweis auf eine Diffusionsstörung. Gute Oxygenierung in der kapillären Blutgasanalyse.  
