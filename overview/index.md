@@ -15,5 +15,3 @@ Current State:
   need to organize a date!)
 
 - Evaluate the benefit/detriment of Brintellix (SSRI)
-
-- Evaluate the benefit/detriment of Brintellix (SSRI)
