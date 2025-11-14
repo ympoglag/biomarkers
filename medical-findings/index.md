@@ -274,8 +274,6 @@ Patient stellt sich zur Verlaufskontrolle vor.
 
 **Diagnose**: V.a. ME/CFS, ADHS
 
-[**Back to Overview**](../overview/index.html)
-
 ### 13.11.2025 - Pneumologe
 **Anamnese**
 
@@ -318,3 +316,5 @@ Anwendung erklärt.
 Kein Hinweis auf eine Obstruktion/COPD. Lungenfunktionell altersentsprechend.  
 Vagusnervstimulation empfohlen. TCM (Stärkung der Mitte) Katharina Ziegelbauer.  
 Kein Hinweis auf eine Diffusionsstörung. Gute Oxygenierung in der kapillären Blutgasanalyse.  
+
+[**Back to Overview**](../overview/index.html)
