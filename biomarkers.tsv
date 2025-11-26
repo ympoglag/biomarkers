@@ -1,4 +1,4 @@
-[BMT-v0] Ympoglag (2025-11-26T10:12Z)	17.05.2016	19.04.2017	12.12.2017	17.03.2021	21.09.2021	24.08.2022	05.09.2023	21.11.2024	17.12.2024	02.01.2025	30.01.2025	04.02.2025	05.02.2025	11.03.2025	12.03.2025	13.03.2025	14.03.2025	26.03.2025	15.04.2025	24.04.2025	08.05.2025	12.05.2025	21.05.2025	26.06.2025	30.06.2025	11.07.2025	22.08.2025	28.08.2025	01.09.2025	01.10.2025	14.10.2025	16.10.2025	23.10.2025
+[BMT-v0] Ympoglag (2025-11-26T10:16Z)	17.05.2016	19.04.2017	12.12.2017	17.03.2021	21.09.2021	24.08.2022	05.09.2023	21.11.2024	17.12.2024	02.01.2025	30.01.2025	04.02.2025	05.02.2025	11.03.2025	12.03.2025	13.03.2025	14.03.2025	26.03.2025	15.04.2025	24.04.2025	08.05.2025	12.05.2025	21.05.2025	26.06.2025	30.06.2025	11.07.2025	22.08.2025	28.08.2025	01.09.2025	01.10.2025	14.10.2025	16.10.2025	23.10.2025
 Meta:Event		Start 6-monatige Behandlung mit 1.25 mg Finasterid.					1te COVID-19 Infektion.	2te COVID-19 Infektion.																									
 Meta:Alter	28 Jahre																								37 Jahre								
 Meta:Gewicht	64 kg																								66.3 kg								
@@ -57,7 +57,7 @@ Hormone:Cortisol im Speichel (08 Uhr)																																5.2 ng/ml [
 Hormone:Cortisol im Speichel (12 Uhr)																																2.8 ng/ml (+) [0.8 - 2.3]	
 Hormone:Cortisol im Speichel (20 Uhr)																																1.3 ng/ml (+) [0.5 - 0.9]	
 Hormone:DHEA-S											424 µg/dl [89 - 427]				473 µg/dl (+) [89 - 427]													317 µg/dl [89 - 427]		263 µg/dl [89 - 427]		325 µg/dl [89 - 427]	
-Hormone:DHEAS basal																															3.48 µg/ml [0.89-4.27]		
+Hormone:DHEA-S basal																															3.48 µg/ml [0.89-4.27]		
 Hormone:DHT																															0.97 nmol/l (-) [1-3]		
 Hormone:Dihydro-Testosteron											655 pg/ml [300 - 850]																						
 Hormone:Freies T3																												3.28 pg/ml [2.15 - 4.12]		3.82 pg/ml [2.15 - 4.12]	3.93 pg/ml [2.0-4.4]		
@@ -149,8 +149,7 @@ Klinische Chemie:Alkalische Phosphatase			61 U/l [30 - 120]	62 U/l [< 129]		79 U
 Klinische Chemie:Alpha Amylase				34 U/l [< 100]																													
 Klinische Chemie:Anorganisches Phosphat																1.16 mmol/L [0.81 - 1.45]																	
 Klinische Chemie:ASAT (GOT)			22 U/l [0 - 49]	64 U/l (+) [< 50]		20 U/l [< 50]			23 U/l [< 50]			23 U/l [< 50]	25 U/l [< 50]		26 U/l [< 50]						26 U/l [< 50]				23 U/l [< 50]			22 U/l [< 50]		24 U/l [< 50]		20 U/l [< 50]	
-Klinische Chemie:Bilirubin			1.77 mg/dl (+) [0.30 - 1.20]						1.8 mg/dl (+) [< 1.2]			1.8 mg/dl (+) [< 1.2]			1.7 mg/dl (+) [< 1.2]						1.3 mg/dl (+) [< 1.2]							1.3 mg/dl (+) [< 1.2]		1.3 mg/dl (+) [< 1.2]		1.9 mg/dl (+) [< 1.2]	
-Klinische Chemie:Bilirubin gesamt				1.55 mg/dl (+) [< 1.2]		1.8 mg/dl (+) [< 1.2]										1.0 mg/dL [0.0 - 1.2]															0.8 mg/dl [< 1.2]		
+Klinische Chemie:Bilirubin			1.77 mg/dl (+) [0.30 - 1.20]	1.55 mg/dl (+) [< 1.2]		1.8 mg/dl (+) [< 1.2]			1.8 mg/dl (+) [< 1.2]			1.8 mg/dl (+) [< 1.2]			1.7 mg/dl (+) [< 1.2]	1.0 mg/dL [0.0 - 1.2]					1.3 mg/dl (+) [< 1.2]							1.3 mg/dl (+) [< 1.2]		1.3 mg/dl (+) [< 1.2]	0.8 mg/dl [< 1.2]	1.9 mg/dl (+) [< 1.2]	
 Klinische Chemie:Blutsenkung 1h	4 mm/1h [<10]		3 mm [1 - 10]									2 mm/h [≤ 15]							2 mm/h [<= 15]		2 mm/h [≤ 15]											2 mm/h [≤ 15]	
 Klinische Chemie:Blutsenkung 2h	6 mm/2h [<20]											8 mm/h [≤ 32]							8 mm/h [<= 32]		8 mm/h [≤ 32]											8 mm/h [≤ 32]	
 Klinische Chemie:Blutzucker				95 mg/dl [60 - 110]		99 mg/dl [60 - 110]			89 mg/dl [60 - 106]			90 mg/dl [60 - 106]			87 mg/dl [60 - 106]															91 mg/dl [60 - 106]		94 mg/dl [60 - 106]	
