@@ -285,6 +285,22 @@ Likely not tried long enough, will retry.
 
 **Suspected**: POTS
 
+### Schellong-Test 30.12.2025 (Bhv)
+
+Was done half-assedly with 7.5 Ivabradine and not standing still but dancing
+while listening to music (:.
+
+| Time                                       | Blood Pressure + Pulse   |
+| -----------------------------------------  | ------------------------ |
+| **10 minutes** (after lying down)          | 124 SYS 68 DIA 73 PUL    |
+| **0 minutes** (immediately after standing) | 134 SYS 78 DIA 87 PUL   |
+| **1 minute**                               | 133 SYS 84 DIA 91 PUL   |
+| **3 minutes**                              | 142 SYS 88 DIA 92 PUL   |
+| **5 minutes**                              | 134 SYS 84 DIA 91 PUL   |
+| **10 minutes**                             | 143 SYS 84 DIA 93 PUL   |
+
+**Suspected**: POTS
+
 ## [Considering]
 
 ## [Ignored]
