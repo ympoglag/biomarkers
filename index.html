@@ -26,7 +26,75 @@
     background: #181c20;
     color: #f6f6f6;
     }
-        <template-include src="css-table.css" />
+    table {
+    border-collapse: collapse;
+    width: 100%;
+    }
+    th,
+    td {
+    border: 1px solid #666;
+    padding: 8px 12px;
+    background: #fff;
+    }
+    /* DARK mode for table cells! */
+    body.dark th,
+    body.dark td {
+    background: #232933;
+    color: #f6f6f6;
+    border-color: #444c56;
+    }
+    /* Sticky header - sits BELOW topbar, don't overlap! */
+    th {
+    position: sticky;
+    top: 0px; /* Must match .topbar height! */
+    z-index: 3;
+    background: #e0e0e0;
+    }
+    body.dark th {
+    background: #2d3641;
+    }
+    /* Sticky first column */
+    th:first-child,
+    td:first-child {
+    position: sticky;
+    left: 0;
+    background: #e0e0e0;
+    z-index: 2;
+    min-width: 500px;
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    }
+    body.dark th:first-child,
+    body.dark td:first-child {
+    background: #20242b;
+    }
+    /* Make top-left cell sticky on both axes and above all */
+    th:first-child {
+    left: 0;
+    top: 0px; /* Must match .topbar height! */
+    z-index: 5;
+    background: #e0e0e0;
+    }
+    body.dark th:first-child {
+    background: #212834;
+    }
+    /* Responsive for mobile */
+    @media (max-width: 600px) {
+    table,
+    th,
+    td {
+    font-size: 44px;
+    }
+    .topbar {
+    height: 36px;
+    font-size: 1.15em;
+    }
+    th,
+    th:first-child {
+    top: 36px;
+    }
+    }
     .download-btn {
     display: inline-block;
     padding: 10px 24px;
@@ -299,7 +367,7 @@
       <tbody>
         <tr>
           <th>
-            [BMT-v0] Ympoglag (2026-06-30T07:26Z)
+            [BMT-v0] Ympoglag (2026-06-30T07:29Z)
           </th>
           <th>
             17.05.2016
