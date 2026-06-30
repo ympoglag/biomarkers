@@ -18,7 +18,7 @@ body.dark td {
 /* Sticky header - sits BELOW topbar, don't overlap! */
 th {
   position: sticky;
-  top: 27px; /* Must match .topbar height! */
+  top: 0px; /* Must match .topbar height! */
   z-index: 3;
   background: #e0e0e0;
 }
@@ -44,7 +44,7 @@ body.dark td:first-child {
 /* Make top-left cell sticky on both axes and above all */
 th:first-child {
   left: 0;
-  top: 27px; /* Must match .topbar height! */
+  top: 0px; /* Must match .topbar height! */
   z-index: 5;
   background: #e0e0e0;
 }
