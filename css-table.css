@@ -28,11 +28,14 @@ body.dark td {
   color: #f6f6f6;
   border-color: #444c56;
 }
-/* Sticky header - sits BELOW topbar, don't overlap! */
-th {
+/* Keep the header in one sticky paint layer so shared cell edges cannot be
+   doubled or covered by independently composited header cells. */
+tr:first-child {
   position: sticky;
   top: 0px; /* Must match .topbar height! */
   z-index: 3;
+}
+th {
   background: #e0e0e0;
 }
 body.dark th {
@@ -57,7 +60,6 @@ body.dark td:first-child {
 /* Make top-left cell sticky on both axes and above all */
 th:first-child {
   left: 0;
-  top: 0px; /* Must match .topbar height! */
   z-index: 5;
   background: #e0e0e0;
 }
@@ -75,8 +77,7 @@ body.dark th:first-child {
     height: 36px;
     font-size: 1.15em;
   }
-  th,
-  th:first-child {
+  tr:first-child {
     top: 36px;
   }
 }
