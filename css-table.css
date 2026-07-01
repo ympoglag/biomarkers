@@ -1,12 +1,25 @@
 table {
-  border-collapse: collapse;
+  /* Separate borders move with sticky cells instead of remaining in the table's
+     normal paint layer, where scrolling rows can cover them. */
+  border: 0;
+  border-collapse: separate;
+  border-spacing: 0;
   width: 100%;
 }
 th,
 td {
-  border: 1px solid #666;
+  border: 0;
+  border-bottom: 1px solid #666;
+  border-right: 1px solid #666;
   padding: 8px 12px;
   background: #fff;
+}
+/* Draw each shared edge once while preserving the table's outer outline. */
+tr:first-child > th {
+  border-top: 1px solid #666;
+}
+tr > :first-child {
+  border-left: 1px solid #666;
 }
 /* DARK mode for table cells! */
 body.dark th,
