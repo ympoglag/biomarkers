@@ -36,10 +36,10 @@ tr:first-child {
   z-index: 3;
 }
 th {
-  background: #e0e0e0;
+  background: #d6d6d6;
 }
 body.dark th {
-  background: #2d3641;
+  background: #28303a;
 }
 /* Sticky first column */
 th:first-child,
@@ -61,10 +61,10 @@ body.dark td:first-child {
 th:first-child {
   left: 0;
   z-index: 5;
-  background: #e0e0e0;
+  background: #d6d6d6;
 }
 body.dark th:first-child {
-  background: #212834;
+  background: #28303a;
 }
 /* Responsive for mobile */
 @media (max-width: 600px) {
