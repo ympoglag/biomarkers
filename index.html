@@ -107,46 +107,7 @@
     /* transform: translateY(-2px) scale(1.03); */
     text-decoration: none;
     }
-    .topbar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 100;
-    height: 27px;
-    background: #e9f4fd;
-    border-bottom: 1px solid #b7d8ee;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 1.2rem;
-    box-sizing: border-box;
-    user-select: none;
-    -webkit-user-select: none;
-    -webkit-user-drag: none;
-    pointer-events: none;
-    font-size: 0.98rem;
-    font-family: system-ui, sans-serif;
-    }
-    .topbar a {
-    pointer-events: auto;
-    }
-    .topbar-left-link {
-    color: #1577c3;
-    font-size: 1rem;
-    font-weight: bold;
-    text-decoration: none;
-    margin-right: 1rem;
-    letter-spacing: 0.01em;
-    transition: color 0.2s;
-    background: none;
-    border: none;
-    user-select: none;
-    }
-    .topbar-left-link:active,
-    .topbar-left-link:visited {
-    color: #0a4c7d;
-    }
+        <template-include src="css-topbar.css" />
     </style>
     <script type="text/javascript">
     // Utility: get textContent, fallbacks for old IE
