@@ -19,12 +19,7 @@
   font-size: 0.98rem;
   font-family: system-ui, sans-serif;
 }
-.topbar.dark {
-  background: #171c24;
-  border-bottom: 1px solid #333e4d;
-}
-.topbar a,
-.topbar button {
+.topbar a {
   pointer-events: auto;
 }
 .topbar-left-link {
@@ -42,35 +37,4 @@
 .topbar-left-link:active,
 .topbar-left-link:visited {
   color: #0a4c7d;
-}
-.topbar .topbar-btn {
-  margin-left: auto;
-  padding: 0.28em 0.8em;
-  font-size: 0.95rem;
-  background: linear-gradient(90deg, #50a7f3, #0f75bc);
-  color: #fff;
-  border: none;
-  border-radius: 8px;
-  box-shadow: 0 1px 4px rgba(80, 167, 243, 0.07);
-  cursor: pointer;
-  transition:
-    background 0.2s,
-    transform 0.13s;
-  font-weight: 500;
-  pointer-events: auto;
-  user-select: none;
-  height: 22px;
-  line-height: 1;
-  min-width: 2em;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.topbar .topbar-btn:hover,
-.topbar .topbar-btn:focus {
-  background: linear-gradient(90deg, #368ed2, #0a527a);
-  outline: none;
-}
-.topbar .topbar-btn:active {
-  transform: scale(0.98);
 }

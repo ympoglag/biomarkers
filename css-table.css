@@ -21,13 +21,6 @@ tr:first-child > th {
 tr > :first-child {
   border-left: 1px solid #666;
 }
-/* DARK mode for table cells! */
-body.dark th,
-body.dark td {
-  background: #232933;
-  color: #f6f6f6;
-  border-color: #444c56;
-}
 /* Keep the header in one sticky paint layer so shared cell edges cannot be
    doubled or covered by independently composited header cells. */
 tr:first-child {
@@ -37,9 +30,6 @@ tr:first-child {
 }
 th {
   background: #d6d6d6;
-}
-body.dark th {
-  background: #28303a;
 }
 /* Sticky first column */
 th:first-child,
@@ -53,18 +43,11 @@ td:first-child {
   overflow-wrap: break-word;
   word-break: break-word;
 }
-body.dark th:first-child,
-body.dark td:first-child {
-  background: #20242b;
-}
 /* Make top-left cell sticky on both axes and above all */
 th:first-child {
   left: 0;
   z-index: 5;
   background: #d6d6d6;
-}
-body.dark th:first-child {
-  background: #28303a;
 }
 /* Responsive for mobile */
 @media (max-width: 600px) {
