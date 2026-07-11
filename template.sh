@@ -72,7 +72,7 @@ convert_md_to_html() {
         cpif "${script_dir}/css-markdown.css" "${1}/markdown.css"
     fi
 
-    convert-md-to-html "${1}/index.md"
+    convert-md-to-html "${1}/index.md" -s
     sed -i "s|CURRENT_DATE|$(date -r "${1}/index.md" '+%Y.%m.%d %T %Z')|g" "${1}/index.html"
 }
 
