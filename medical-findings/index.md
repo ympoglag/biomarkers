@@ -166,9 +166,7 @@ von 3/h OCST (normal 0-5). Es finden sich dabei wenige zentrale Apnoen am Schlaf
 Übergang vorwiegend obstruktive Hypopnoen vor allem In Rückenlage. Keine relevante Hypoxiezeit
 . leichtes Schnarchen lageunabhängiges Schnarchen über 2% der Ableitungszeit.
 
-**Zusammenfassung und Konklusion**:
-Keine relevante Schlafapnoe
-Zyklische Schlafarchitektur
+**Zusammenfassung und Konklusion**: Keine relevante Schlafapnoe, Zyklische Schlafarchitektur
 
 ### 03.07.2025 - Augenarzt
 *Applanationstonometrie*: 03.07.2025 17:25 - re Auge: 16 mmHg, li Auge: 18 mmHg  
@@ -205,7 +203,7 @@ Patient stellt sich zur EO vor.
 - Rechenstörungen
 - Kurzzeitgedächtnisstörungen
 - **PEM (Post-exertionelle Malaise)** typisch für Post-COVID / ME/CFS
-- Symptome nach Orgamsus - weist auf vegetative Dysregulation hin
+- Symptome nach Orgasmus - weist auf vegetative Dysregulation hin
 
 *Sensorische Symptome*:
 
