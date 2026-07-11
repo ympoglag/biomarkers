@@ -56,6 +56,49 @@ Untersuchungsqualität: gut
 
 **Unauffällig**
 
+### 10.02.2025 - NLG – Nervenleitgeschwindigkeit
+
+m4, p8pnp / CG  
+UE + OE beidseits  
+
+**Nervus medianus**
+
+| Messung                   |               Rechts |                Links |
+| ------------------------- | -------------------: | -------------------: |
+| NLG Cubita–Handgelenk     | 62,5 m/sec (22,0 cm) | 65,0 m/sec (21,0 cm) |
+| Distale Latenz            |    3,4 msec (6,5 cm) |    3,6 msec (6,5 cm) |
+| Summenpotentialamplitude  |            9200,0 µV |            8000,0 µV |
+| Sensible antidrome NLG I  | 46,0 m/sec (12,0 cm) | 48,0 m/sec (11,5 cm) |
+| Sensible antidrome NLG II | 50,0 m/sec (16,0 cm) | 52,0 m/sec (15,5 cm) |
+
+**Nervus peronäus**
+
+| Messung                          |                Rechts |                 Links |
+| -------------------------------- | --------------------: | --------------------: |
+| NLG in Höhe des Fibulaköpfchens  |  64,0 m/sec (13,5 cm) |  60,5 m/sec (11,5 cm) |
+| NLG Fibulaköpfchen–Fußrist       |  51,0 m/sec (31,5 cm) |  48,0 m/sec (31,0 cm) |
+| Distale Latenz                   | **4,2 msec** (7,5 cm) | **4,4 msec** (7,5 cm) |
+| Summenpotentialamplitude Fußrist |             5670,0 µV |             5330,0 µV |
+
+**Nervus suralis**
+
+| Messung                 |               Rechts |                Links |
+| ----------------------- | -------------------: | -------------------: |
+| Sensible orthodrome NLG | 47,0 m/sec (12,0 cm) | 49,0 m/sec (12,0 cm) |
+
+*Ableitung mit Oberflächenelektroden: N. medianus vom Thenar, N. ulnaris vom Hypothenar, N. radialis vom Ext. digi. comm., N. peronaeus vom M. ext. dig. brevis, N. tibialis vom M. abd. hallucis, N. femoralis: motorische Überleitungszeit vom M. vastus med., N. suralis unterhalb des M. gastrocnem. med. et lat., N. axillaris vom M. delt.*
+
+**Zusammenfassung**
+
+Der N. medianus beidseits ist sensibel und motorisch im Normbereich.
+Der N. peronäus beidseits und der N. suralis beidseits sind unauffällig.
+
+**Beurteilung**
+
+Derzeit ist kein Hinweis auf ein peripher neurogenes Beschwerdesubstrat nachweisbar.
+
+**Unauffällig**
+
 ### 18.02.2025 - Mammasonographie - Röntgen
 *Mammasonographie beidseits*:  
 Cutis und Subcutis sind bland.  
