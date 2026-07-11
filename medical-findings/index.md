@@ -86,6 +86,8 @@ UE + OE beidseits
 | ----------------------- | -------------------: | -------------------: |
 | Sensible orthodrome NLG | 47,0 m/sec (12,0 cm) | 49,0 m/sec (12,0 cm) |
 
+---
+
 *Ableitung mit Oberflächenelektroden: N. medianus vom Thenar, N. ulnaris vom Hypothenar, N. radialis vom Ext. digi. comm., N. peronaeus vom M. ext. dig. brevis, N. tibialis vom M. abd. hallucis, N. femoralis: motorische Überleitungszeit vom M. vastus med., N. suralis unterhalb des M. gastrocnem. med. et lat., N. axillaris vom M. delt.*
 
 **Zusammenfassung**
