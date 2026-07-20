@@ -31,6 +31,18 @@ Sup - Supplement
 
 ## [In Progress]
 
+### Low Dose Sirolimus
+Took my first 1mg 2026-07-14T13:58:26  
+
+2026-07-14T18:24:00 I started to cook and noticed that I can smell much more
+than usual. My mind also seems sharper and I feel more on my body. The joints in
+my fingers suddenly don't hurt as much. This could be a placebo effect, we'll
+see. But it's pretty noticeable.
+
+2026-07-15T16:18:00 The next day the effects are still there. Sleep was better
+than I had in a year without any awakenings. Nose is still "open", I can breathe
+so much better through it.
+
 ### Quviviq (Rx)
 50mg 0-0-1  
 Significantly helps sleep duration and quality.  
