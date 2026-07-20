@@ -1,4 +1,4 @@
-[BMT-v0] Ympoglag (2026-07-20T16:39Z)	17.05.2016	19.04.2017	12.12.2017	17.03.2021	21.09.2021	24.08.2022	05.09.2023	21.11.2024	17.12.2024	02.01.2025	30.01.2025	04.02.2025	05.02.2025	11.03.2025	12.03.2025	13.03.2025	14.03.2025	26.03.2025	15.04.2025	24.04.2025	08.05.2025	12.05.2025	21.05.2025	26.06.2025	30.06.2025	11.07.2025	22.08.2025	28.08.2025	01.09.2025	01.10.2025	14.10.2025	16.10.2025	22.10.2025	23.10.2025	21.11.2025	30.12.2025	14.01.2026	12.02.2026	13.02.2026	26.02.2026	26.03.2026 11:04	05.06.2026 11:04	10.07.2026 08:57
+[BMT-v0] Ympoglag (2026-07-20T19:09Z)	17.05.2016	19.04.2017	12.12.2017	17.03.2021	21.09.2021	24.08.2022	05.09.2023	21.11.2024	17.12.2024	02.01.2025	30.01.2025	04.02.2025	05.02.2025	11.03.2025	12.03.2025	13.03.2025	14.03.2025	26.03.2025	15.04.2025	24.04.2025	08.05.2025	12.05.2025	21.05.2025	26.06.2025	30.06.2025	11.07.2025	22.08.2025	28.08.2025	01.09.2025	01.10.2025	14.10.2025	16.10.2025	22.10.2025	23.10.2025	21.11.2025	30.12.2025	14.01.2026	12.02.2026	13.02.2026	26.02.2026	26.03.2026 11:04	05.06.2026 11:04	10.07.2026 08:57
 Meta:Event		Start 6-monatige Behandlung mit 1.25 mg Finasterid.					1te COVID-19 Infektion.	2te COVID-19 Infektion.																																			
 Meta:Alter	28 Jahre																								37 Jahre																		
 Meta:Gewicht	64 kg																								66.3 kg																		
@@ -225,7 +225,7 @@ Klinische Chemie:GFR						97.8 ml/min [> 75]
 Klinische Chemie:GFR (CKD-EPI)									86 ml/min [75 - 200]			86 ml/min [75 - 200]			96 ml/min [75 - 200]						85 ml/min [≥ 75]						84 mL/min/1.7m2 [> 60]	96 ml/min [≥ 75]		77 ml/min [≥ 75]		96 ml/min [≥ 75]				96 ml/min [≥75]			109 ml/min [≥75]				
 Klinische Chemie:GFR/1.7m2KO (MDRD)			>60 ml/min [60 - 200]																																								
 Klinische Chemie:Glomeruläre Filtrationsrate					103 ml/min																																						
-Klinische Chemie:glomeruläre Filtrationsrate (MDRD)	>60 ml/min (-) [>60]																																										
+Klinische Chemie:glomeruläre Filtrationsrate (MDRD)	>60 ml/min [>60]																																										
 Klinische Chemie:GlomFiltrRCockcroft	99.56 ml/min [98-156]																																										
 Klinische Chemie:Glucose			94 mg/dl [70 - 100]													99 mg/dL [74 - 109]											116 mg/dL (+) [74 - 106]																
 Klinische Chemie:GOT (AST)																															31 U/l [10 - 50]												
@@ -252,7 +252,7 @@ Klinische Chemie:Leukozyten																															8.98 Tsd./µl [3.91 - 
 Klinische Chemie:Lipase				41 U/l [< 78]		48 U/l [< 78]			50 U/l [13 - 60]																51 U/l [13 - 60]			58 U/l [13 - 60]				55 U/l [13 - 60]							58 U/l [13 - 60]		32 U/l [< 60]		
 Klinische Chemie:Lipoprotein (a)																																				<20 nmol/l [< 75]							
 Klinische Chemie:Magnesium													0.8 mmol/l [0.7 - 1.1]		0.8 mmol/l [0.7 - 1.1]	0.92 mmol/L [0.66 - 1.07]												0.8 mmol/l [0.7 - 1.1]		0.8 mmol/l [0.7 - 1.1]		0.9 mmol/l [0.7 - 1.1]				0.8 mmol/l [0.7 - 1.1]			0.9 mmol/l [0.7 - 1.1]		0.83 mmol/l [0.66 - 1.07]		
-Klinische Chemie:Mannose-bindendes Lektin (MBL)																																>300 (-) [> 300]				>300 (-) [> 300]							
+Klinische Chemie:Mannose-bindendes Lektin (MBL)																																>300 [> 300]				>300 [> 300]							
 Klinische Chemie:MCH																															30.5 pg [27 - 32.3]												
 Klinische Chemie:MCHC																															33.5 g/dl [32.4 - 35]												
 Klinische Chemie:MCV																															91 fl [81.8 - 95.5]												
