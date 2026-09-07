@@ -431,8 +431,102 @@
     return joinSpreadsheetBytes(localParts.concat([centralDirectory, endRecord]));
     }
 
+    // Convert a rendered CSS color to the opaque ARGB value expected by Excel.
+    function spreadsheetBackgroundColor(cell) {
+    var renderedStyle = window.getComputedStyle
+    ? window.getComputedStyle(cell)
+    : cell.currentStyle;
+    var color = renderedStyle ? renderedStyle.backgroundColor : "";
+    var rgb = color.match(
+    /^rgba?\(\s*([\d.]+)[,\s]+([\d.]+)[,\s]+([\d.]+)(?:\s*[,/]\s*([\d.]+%?))?\s*\)$/i
+    );
+
+    if (rgb) {
+    var alpha = rgb[4] || "1";
+    var opacity = alpha.indexOf("%") === -1 ? parseFloat(alpha) : parseFloat(alpha) / 100;
+    if (opacity === 0) return null;
+
+    var hexadecimal = "";
+    for (var component = 1; component <= 3; ++component) {
+      var value = Math.max(0, Math.min(255, Math.round(parseFloat(rgb[component]))));
+      hexadecimal += ("0" + value.toString(16)).slice(-2);
+    }
+    return "FF" + hexadecimal.toUpperCase();
+    }
+
+    // Retain compatibility with browsers that expose computed colors as hex.
+    var hex = color.match(/^#([0-9a-f]{3}|[0-9a-f]{6})$/i);
+    if (!hex) return null;
+
+    var expanded = hex[1];
+    if (expanded.length === 3) {
+    expanded =
+      expanded.charAt(0) +
+      expanded.charAt(0) +
+      expanded.charAt(1) +
+      expanded.charAt(1) +
+      expanded.charAt(2) +
+      expanded.charAt(2);
+    }
+    return "FF" + expanded.toUpperCase();
+    }
+
+    // Assign one reusable workbook style to every distinct table background color.
+    function spreadsheetCellStyleId(cell, styleRegistry) {
+    var color = spreadsheetBackgroundColor(cell);
+    if (!color) return 0;
+
+    if (!Object.prototype.hasOwnProperty.call(styleRegistry.styleIds, color)) {
+    styleRegistry.fillColors.push(color);
+    styleRegistry.styleIds[color] = styleRegistry.fillColors.length;
+    }
+    return styleRegistry.styleIds[color];
+    }
+
+    // Create workbook fill and cell styles for the colors collected from the table.
+    function createSpreadsheetStyles(fillColors) {
+    var fills = [
+    '<fill><patternFill patternType="none"/></fill>',
+    '<fill><patternFill patternType="gray125"/></fill>'
+    ];
+    var cellStyles = [
+    '<xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0"/>'
+    ];
+
+    for (var i = 0; i < fillColors.length; ++i) {
+    fills.push(
+      '<fill><patternFill patternType="solid"><fgColor rgb="' +
+        fillColors[i] +
+        '"/><bgColor indexed="64"/></patternFill></fill>'
+    );
+    cellStyles.push(
+      '<xf numFmtId="0" fontId="0" fillId="' +
+        (i + 2) +
+        '" borderId="0" xfId="0" applyFill="1"/>'
+    );
+    }
+
+    return (
+    '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' +
+    '<styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">' +
+    '<fonts count="1"><font><sz val="11"/><name val="Calibri"/><family val="2"/></font></fonts>' +
+    '<fills count="' +
+    fills.length +
+    '">' +
+    fills.join("") +
+    '</fills><borders count="1"><border><left/><right/><top/><bottom/><diagonal/></border></borders>' +
+    '<cellStyleXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/></cellStyleXfs>' +
+    '<cellXfs count="' +
+    cellStyles.length +
+    '">' +
+    cellStyles.join("") +
+    '</cellXfs><cellStyles count="1"><cellStyle name="Normal" xfId="0" builtinId="0"/></cellStyles>' +
+    "</styleSheet>"
+    );
+    }
+
     // Turn the rendered table into worksheet XML while deliberately omitting A1.
-    function createSpreadsheetWorksheet(table) {
+    function createSpreadsheetWorksheet(table, styleRegistry) {
     var rows = table.getElementsByTagName("tr");
     var maximumColumns = 1;
     var worksheetRows = [];
@@ -447,16 +541,24 @@
       if (rowIndex === 0 && cellIndex === 0) continue;
 
       var cellText = getCellText(cells[cellIndex]);
-      if (cellText === "") continue;
-
       var reference = spreadsheetColumnName(cellIndex + 1) + (rowIndex + 1);
-      worksheetCells.push(
-        '<c r="' +
-          reference +
-          '" t="inlineStr"><is><t xml:space="preserve">' +
-          escapeSpreadsheetXml(cellText) +
-          "</t></is></c>"
-      );
+      var styleId = spreadsheetCellStyleId(cells[cellIndex], styleRegistry);
+      var styleAttribute = styleId === 0 ? "" : ' s="' + styleId + '"';
+
+      // Keep styled empty cells so their table background remains visible.
+      if (cellText === "") {
+        if (styleId !== 0) worksheetCells.push('<c r="' + reference + '"' + styleAttribute + "/>");
+      } else {
+        worksheetCells.push(
+          '<c r="' +
+            reference +
+            '"' +
+            styleAttribute +
+            ' t="inlineStr"><is><t xml:space="preserve">' +
+            escapeSpreadsheetXml(cellText) +
+            "</t></is></c>"
+        );
+      }
     }
 
     worksheetRows.push(
@@ -480,6 +582,8 @@
     // Assemble the minimal set of Office Open XML files needed for an XLSX workbook.
     function createSpreadsheetWorkbook(table) {
     var documentTimestamp = new Date().toISOString();
+    var styleRegistry = { fillColors: [], styleIds: {} };
+    var worksheet = createSpreadsheetWorksheet(table, styleRegistry);
     var files = [
     {
       name: "[Content_Types].xml",
@@ -546,20 +650,11 @@
     },
     {
       name: "xl/styles.xml",
-      content:
-        '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' +
-        '<styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">' +
-        '<fonts count="1"><font><sz val="11"/><name val="Calibri"/><family val="2"/></font></fonts>' +
-        '<fills count="2"><fill><patternFill patternType="none"/></fill><fill><patternFill patternType="gray125"/></fill></fills>' +
-        '<borders count="1"><border><left/><right/><top/><bottom/><diagonal/></border></borders>' +
-        '<cellStyleXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/></cellStyleXfs>' +
-        '<cellXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0"/></cellXfs>' +
-        '<cellStyles count="1"><cellStyle name="Normal" xfId="0" builtinId="0"/></cellStyles>' +
-        "</styleSheet>"
+      content: createSpreadsheetStyles(styleRegistry.fillColors)
     },
     {
       name: "xl/worksheets/sheet1.xml",
-      content: createSpreadsheetWorksheet(table)
+      content: worksheet
     }
     ];
 
