@@ -25,9 +25,9 @@
   float: right;
   margin-left: 16px;
   padding: 4px 12px;
-  border: 1px solid #0f75bc;
+  border: 1px solid #222;
   border-radius: 5px;
-  background: linear-gradient(90deg, #50a7f3, #0f75bc);
+  background: linear-gradient(90deg, #555, #222);
   color: #fff;
   cursor: pointer;
   font: inherit;
@@ -35,5 +35,5 @@
 
 .export-btn:hover,
 .export-btn:focus {
-  background: linear-gradient(90deg, #368ed2, #0a527a);
+  background: linear-gradient(90deg, #333, #000);
 }
