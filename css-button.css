@@ -20,3 +20,20 @@
   /* transform: translateY(-2px) scale(1.03); */
   text-decoration: none;
 }
+
+.export-btn {
+  float: right;
+  margin-left: 16px;
+  padding: 4px 12px;
+  border: 1px solid #0f75bc;
+  border-radius: 5px;
+  background: linear-gradient(90deg, #50a7f3, #0f75bc);
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+}
+
+.export-btn:hover,
+.export-btn:focus {
+  background: linear-gradient(90deg, #368ed2, #0a527a);
+}
